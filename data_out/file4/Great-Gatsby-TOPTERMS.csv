@@ -1,0 +1,11 @@
+,tfidf_n_sum,tfidf_jp_sum,tfidf_cp_sum,tfidf_l2_sum,tfidf_logn_sum,tfidf_sub_sum,tfidf_max_sum,tfidf_bool_sum
+0,,,,,gatsby,,gatsby,gatsby
+1,gatsby,gatsby,gatsby,gatsby,said,gatsby,tom,said
+2,said,daisy,daisy,daisy,,said,,daisy
+3,tom,tom,tom,tom,tom,tom,daisy,tom
+4,daisy,said,said,one,daisy,daisy,said,
+5,one,one,one,said,one,one,one,one
+6,like,like,like,back,like,like,came,like
+7,man,little,little,came,man,man,back,man
+8,back,eyes,eyes,little,back,back,like,little
+9,came,back,back,like,came,came,little,back

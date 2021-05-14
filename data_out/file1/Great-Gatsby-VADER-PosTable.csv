@@ -1,0 +1,837 @@
+,Sentence,CompScore,PosScore,NegScore,NeuScore,PosFlag,NegFlag,NeuFlag
+0,"“Whenever you feel like criticizing anyone,” he told me, “just remember that all the people in this world haven’t had the advantages that you’ve had.” He didn’t say any more, but we’ve always been unusually communicative in a reserved way, and I understood that he meant a great deal more than that.",0.8126,0.164,0.031,0.805,1,0,0
+1,"In consequence, I’m inclined to reserve all judgements, a habit that has opened up many curious natures to me and also made me the victim of not a few veteran bores.",0.2874,0.132,0.065,0.803,1,0,0
+2,Reserving judgements is a matter of infinite hope.,0.4588,0.444,0.0,0.556,1,0,0
+3,"And, after boasting this way of my tolerance, I come to the admission that it has a limit.",0.296,0.128,0.0,0.872,1,0,0
+4,"Conduct may be founded on the hard rock or the wet marshes, but after a certain point I don’t care what it’s founded on.",0.775,0.256,0.044,0.7,1,0,0
+5,When I came back from the East last autumn I felt that I wanted the world to be in uniform and at a sort of moral attention forever; I wanted no more riotous excursions with privileged glimpses into the human heart.,0.1779,0.074,0.056,0.87,1,0,0
+6,"If personality is an unbroken series of successful gestures, then there was something gorgeous about him, some heightened sensitivity to the promises of life, as if he were related to one of those intricate machines that register earthquakes ten thousand miles away.",0.9001,0.24,0.0,0.76,1,0,0
+7,"This responsiveness had nothing to do with that flabby impressionability which is dignified under the name of the “creative temperament”—it was an extraordinary gift for hope, a romantic readiness such as I have never found in any other person and which it is not likely I shall ever find again.",0.9136,0.246,0.0,0.754,1,0,0
+8,"No—Gatsby turned out all right at the end; it is what preyed on Gatsby, what foul dust floated in the wake of his dreams that temporarily closed out my interest in the abortive sorrows and short-winded elations of men.",0.4767,0.129,0.059,0.813,1,0,0
+9,"My family have been prominent, well-to-do people in this Middle Western city for three generations.",0.3182,0.141,0.0,0.859,1,0,0
+10,"I never saw this great-uncle, but I’m supposed to look like him—with special reference to the rather hard-boiled painting that hangs in father’s office.",0.7783,0.245,0.0,0.755,1,0,0
+11,I enjoyed the counter-raid so thoroughly that I came back restless.,0.296,0.266,0.169,0.565,1,0,0
+12,"Instead of being the warm centre of the world, the Middle West now seemed like the ragged edge of the universe—so I decided to go East and learn the bond business.",0.5267,0.136,0.0,0.864,1,0,0
+13,"Everybody I knew was in the bond business, so I supposed it could support one more single man.",0.4019,0.153,0.0,0.847,1,0,0
+14,"Father agreed to finance me for a year, and after various delays I came East, permanently, I thought, in the spring of twenty-two.",0.2732,0.1,0.0,0.9,1,0,0
+15,"The practical thing was to find rooms in the city, but it was a warm season, and I had just left a country of wide lawns and friendly trees, so when a young man at the office suggested that we take a house together in a commuting town, it sounded like a great idea.",0.9481,0.266,0.0,0.734,1,0,0
+16,"I had a dog—at least I had him for a few days until he ran away—and an old Dodge and a Finnish woman, who made my bed and cooked breakfast and muttered Finnish wisdom to herself over the electric stove.",0.5267,0.091,0.0,0.909,1,0,0
+17,"I was a guide, a pathfinder, an original settler.",0.3182,0.315,0.0,0.685,1,0,0
+18,He had casually conferred on me the freedom of the neighbourhood.,0.7096,0.396,0.0,0.604,1,0,0
+19,"And so with the sunshine and the great bursts of leaves growing on the trees, just as things grow in fast movies, I had that familiar conviction that life was beginning over again with the summer.",0.8505,0.224,0.0,0.776,1,0,0
+20,"There was so much to read, for one thing, and so much fine health to be pulled down out of the young breath-giving air.",0.2682,0.083,0.0,0.917,1,0,0
+21,"I bought a dozen volumes on banking and credit and investment securities, and they stood on my shelf in red and gold like new money from the mint, promising to unfold the shining secrets that only Midas and Morgan and Maecenas knew.",0.8402,0.217,0.0,0.783,1,0,0
+22,"I was rather literary in college—one year I wrote a series of very solemn and obvious editorials for the Yale News—and now I was going to bring back all such things into my life and become again that most limited of all specialists, the “well-rounded man.” This isn’t just an epigram—life is much more successfully looked at from a single window, after all.",0.1796,0.056,0.061,0.883,1,0,0
+23,It was a matter of chance that I should have rented a house in one of the strangest communities in North America.,0.2732,0.154,0.0,0.846,1,0,0
+24,"It was on that slender riotous island which extends itself due east of New York—and where there are, among other natural curiosities, two unusual formations of land.",0.4588,0.138,0.0,0.862,1,0,0
+25,"Twenty miles from the city a pair of enormous eggs, identical in contour and separated only by a courtesy bay, jut out into the most domesticated body of salt water in the Western hemisphere, the great wet barnyard of Long Island Sound.",0.765,0.148,0.0,0.852,1,0,0
+26,To the wingless a more interesting phenomenon is their dissimilarity in every particular except shape and size.,0.4576,0.166,0.0,0.834,1,0,0
+27,"I lived at West Egg, the—well, the less fashionable of the two, though this is a most superficial tag to express the bizarre and not a little sinister contrast between them.",0.1604,0.094,0.074,0.833,1,0,0
+28,"My house was at the very tip of the egg, only fifty yards from the Sound, and squeezed between two huge places that rented for twelve or fifteen thousand a season.",0.3182,0.073,0.0,0.927,1,0,0
+29,"Across the courtesy bay the white palaces of fashionable East Egg glittered along the water, and the history of the summer really begins on the evening I drove over there to have dinner with the Tom Buchanans.",0.3612,0.067,0.0,0.933,1,0,0
+30,"Her husband, among various physical accomplishments, had been one of the most powerful ends that ever played football at New Haven—a national figure in a way, one of those men who reach such an acute limited excellence at twenty-one that everything afterward savours of anticlimax.",0.8313,0.207,0.037,0.756,1,0,0
+31,"His family were enormously wealthy—even in college his freedom with money was a matter for reproach—but now he’d left Chicago and come East in a fashion that rather took your breath away: for instance, he’d brought down a string of polo ponies from Lake Forest.",0.6486,0.117,0.0,0.883,1,0,0
+32,It was hard to realize that a man in my own generation was wealthy enough to do that.,0.2732,0.132,0.074,0.794,1,0,0
+33,"They had spent a year in France for no particular reason, and then drifted here and there unrestfully wherever people played polo and were rich together.",0.5859,0.199,0.073,0.728,1,0,0
+34,And so it happened that on a warm windy evening I drove over to East Egg to see two old friends whom I scarcely knew at all.,0.6124,0.185,0.0,0.815,1,0,0
+35,"Their house was even more elaborate than I expected, a cheerful red-and-white Georgian Colonial mansion, overlooking the bay.",0.5423,0.189,0.0,0.811,1,0,0
+36,"The lawn started at the beach and ran towards the front door for a quarter of a mile, jumping over sundials and brick walks and burning gardens—finally when it reached the house drifting up the side in bright vines as though from the momentum of its run.",0.5106,0.091,0.0,0.909,1,0,0
+37,"Not even the effeminate swank of his riding clothes could hide the enormous power of that body—he seemed to fill those glistening boots until he strained the top lacing, and you could see a great pack of muscle shifting when his shoulder moved under his thin coat.",0.3612,0.113,0.084,0.803,1,0,0
+38,"His speaking voice, a gruff husky tenor, added to the impression of fractiousness he conveyed.",0.2263,0.128,0.0,0.872,1,0,0
+39,"“Now, don’t think my opinion on these matters is final,” he seemed to say, “just because I’m stronger and more of a man than you are.” We were in the same senior society, and while we were never intimate I always had the impression that he approved of me and wanted me to like him with some harsh, defiant wistfulness of his own.",0.6249,0.156,0.069,0.775,1,0,0
+40,We talked for a few minutes on the sunny porch.,0.4215,0.259,0.0,0.741,1,0,0
+41,"“I’ve got a nice place here,” he said, his eyes flashing about restlessly.",0.1027,0.184,0.158,0.658,1,0,0
+42,"Turning me around by one arm, he moved a broad flat hand along the front vista, including in its sweep a sunken Italian garden, a half acre of deep, pungent roses, and a snub-nosed motorboat that bumped the tide offshore.",0.4939,0.084,0.0,0.916,1,0,0
+43,"“We’ll go inside.” We walked through a high hallway into a bright rosy-coloured space, fragilely bound into the house by French windows at either end.",0.4404,0.116,0.0,0.884,1,0,0
+44,The windows were ajar and gleaming white against the fresh grass outside that seemed to grow a little way into the house.,0.3182,0.103,0.0,0.897,1,0,0
+45,"A breeze blew through the room, blew curtains in at one end and out the other like pale flags, twisting them up toward the frosted wedding-cake of the ceiling, and then rippled over the wine-coloured rug, making a shadow on it as wind does on the sea.",0.3612,0.054,0.0,0.946,1,0,0
+46,"The other girl, Daisy, made an attempt to rise—she leaned slightly forward with a conscientious expression—then she laughed, an absurd, charming little laugh, and I laughed too and came forward into the room.",0.9202,0.327,0.0,0.673,1,0,0
+47,"“I’m p-paralysed with happiness.” She laughed again, as if she said something very witty, and held my hand for a moment, looking up into my face, promising that there was no one in the world she so much wanted to see.",0.7717,0.189,0.047,0.764,1,0,0
+48,"I looked back at my cousin, who began to ask me questions in her low, thrilling voice.",0.25,0.161,0.109,0.729,1,0,0
+49,"Her face was sad and lovely with bright things in it, bright eyes and a bright passionate mouth, but there was an excitement in her voice that men who had cared for her found difficult to forget: a singing compulsion, a whispered “Listen,” a promise that she had done gay, exciting things just a while since and that there were gay, exciting things hovering in the next hour.",0.9696,0.342,0.087,0.57,1,0,0
+50,"I told her how I had stopped off in Chicago for a day on my way East, and how a dozen people had sent their love through me.",0.5106,0.149,0.068,0.783,1,0,0
+51,“Do they miss me?” she cried ecstatically.,0.1531,0.317,0.35,0.333,1,0,0
+52,"All the cars have the left rear wheel painted black as a mourning wreath, and there’s a persistent wail all night along the north shore.” “How gorgeous!",0.3382,0.142,0.096,0.762,1,0,0
+53,Tomorrow!” Then she added irrelevantly: “You ought to see the baby.” “I’d like to.” “She’s asleep.,0.4199,0.157,0.0,0.843,1,0,0
+54,"“You will if you stay in the East.” “Oh, I’ll stay in the East, don’t you worry,” he said, glancing at Daisy and then back at me, as if he were alert for something more.",0.296,0.061,0.0,0.939,1,0,0
+55,"Evidently it surprised her as much as it did me, for she yawned and with a series of rapid, deft movements stood up into the room.",0.2263,0.073,0.0,0.927,1,0,0
+56,"“How you ever get anything done is beyond me.” I looked at Miss Baker, wondering what it was she “got done.” I enjoyed looking at her.",0.4019,0.123,0.059,0.818,1,0,0
+57,"She was a slender, small-breasted girl, with an erect carriage, which she accentuated by throwing her body backward at the shoulders like a young cadet.",0.3612,0.102,0.0,0.898,1,0,0
+58,"Her grey sun-strained eyes looked back at me with polite reciprocal curiosity out of a wan, charming, discontented face.",0.296,0.219,0.123,0.658,1,0,0
+59,“In two weeks it’ll be the longest day in the year.” She looked at us all radiantly.,0.3182,0.126,0.0,0.874,1,0,0
+60,"That’s what I get for marrying a brute of a man, a great, big, hulking physical specimen of a—” “I hate that word ‘hulking,’ ” objected Tom crossly, “even in kidding.” “Hulking,” insisted Daisy.",0.1027,0.118,0.106,0.776,1,0,0
+61,"Sometimes she and Miss Baker talked at once, unobtrusively and with a bantering inconsequence that was never quite chatter, that was as cool as their white dresses and their impersonal eyes in the absence of all desire.",0.2732,0.122,0.095,0.782,1,0,0
+62,"They were here, and they accepted Tom and me, making only a polite pleasant effort to entertain or to be entertained.",0.8555,0.394,0.0,0.606,1,0,0
+63,They knew that presently dinner would be over and a little later the evening too would be over and casually put away.,0.1779,0.078,0.0,0.922,1,0,0
+64,"“You make me feel uncivilized, Daisy,” I confessed on my second glass of corky but rather impressive claret.",0.6652,0.218,0.0,0.782,1,0,0
+65,"Have you read The Rise of the Coloured Empires by this man Goddard?” “Why, no,” I answered, rather surprised by his tone.",0.2263,0.087,0.0,0.913,1,0,0
+66,"“Well, it’s a fine book, and everybody ought to read it.",0.2023,0.167,0.0,0.833,1,0,0
+67,"“I’ll tell you a family secret,” she whispered enthusiastically.",0.5574,0.34,0.0,0.66,1,0,0
+68,"Do you want to hear about the butler’s nose?” “That’s why I came over tonight.” “Well, he wasn’t always a butler; he used to be the silver polisher for some people in New York that had a silver service for two hundred people.",0.0772,0.032,0.0,0.968,1,0,0
+69,"Things went from bad to worse, until finally he had to give up his position.” For a moment the last sunshine fell with romantic affection upon her glowing face; her voice compelled me forward breathlessly as I listened—then the glow faded, each light deserting her with lingering regret, like children leaving a pleasant street at dusk.",0.7096,0.234,0.135,0.631,1,0,0
+70,"“I love to see you at my table, Nick.",0.6369,0.344,0.0,0.656,1,0,0
+71,"She was only extemporizing, but a stirring warmth flowed from her, as if her heart was trying to come out to you concealed in one of those breathless, thrilling words.",0.8462,0.232,0.0,0.768,1,0,0
+72,"The murmur trembled on the verge of coherence, sank down, mounted excitedly, and then ceased altogether.",0.296,0.17,0.108,0.722,1,0,0
+73,I want to hear what happens.” “Is something happening?” I inquired innocently.,0.4019,0.316,0.0,0.684,1,0,0
+74,"“You mean to say you don’t know?” said Miss Baker, honestly surprised.",0.5106,0.316,0.103,0.581,1,0,0
+75,"She sat down, glanced searchingly at Miss Baker and then at me, and continued: “I looked outdoors for a minute, and it’s very romantic outdoors.",0.3384,0.113,0.06,0.827,1,0,0
+76,To a certain temperament the situation might have seemed intriguing—my own instinct was to telephone immediately for the police.,0.2732,0.11,0.0,0.89,1,0,0
+77,"Tom and Miss Baker, with several feet of twilight between them, strolled back into the library, as if to a vigil beside a perfectly tangible body, while, trying to look pleasantly interested and a little deaf, I followed Daisy around a chain of connecting verandas to the porch in front.",0.8555,0.19,0.03,0.779,1,0,0
+78,"Daisy took her face in her hands as if feeling its lovely shape, and her eyes moved gradually out into the velvet dusk.",0.6486,0.202,0.0,0.798,1,0,0
+79,"“We don’t know each other very well, Nick,” she said suddenly.",0.3384,0.193,0.0,0.807,1,0,0
+80,Would you like to hear?” “Very much.” “It’ll show you how I’ve gotten to feel about—things.,0.3612,0.143,0.0,0.857,1,0,0
+81,"Well, she was less than an hour old and Tom was God knows where.",0.4939,0.259,0.0,0.741,1,0,0
+82,"‘All right,’ I said, ‘I’m glad it’s a girl.",0.4588,0.333,0.0,0.667,1,0,0
+83,"And I hope she’ll be a fool—that’s the best thing a girl can be in this world, a beautiful little fool.’ “You see I think everything’s terrible anyhow,” she went on in a convinced way.",0.891,0.336,0.076,0.588,1,0,0
+84,“Everybody thinks so—the most advanced people.,0.3167,0.314,0.0,0.686,1,0,0
+85,"I’ve been everywhere and seen everything and done everything.” Her eyes flashed around her in a defiant way, rather like Tom’s, and she laughed with thrilling scorn.",0.6124,0.251,0.135,0.614,1,0,0
+86,"I waited, and sure enough, in a moment she looked at me with an absolute smirk on her lovely face, as if she had asserted her membership in a rather distinguished secret society to which she and Tom belonged.",0.7269,0.152,0.0,0.848,1,0,0
+87,"Tom and Miss Baker sat at either end of the long couch and she read aloud to him from the Saturday Evening Post—the words, murmurous and uninflected, running together in a soothing tune.",0.1779,0.068,0.047,0.885,1,0,0
+88,"The lamplight, bright on his boots and dull on the autumn-leaf yellow of her hair, glinted along the paper as she turned a page with a flutter of slender muscles in her arms.",0.0516,0.084,0.078,0.838,1,0,0
+89,When we came in she held us silent for a moment with a lifted hand.,0.4939,0.211,0.0,0.789,1,0,0
+90,"“Time for this good girl to go to bed.” “Jordan’s going to play in the tournament tomorrow,” explained Daisy, “over at Westchester.” “Oh—you’re Jordan Baker.” I knew now why her face was familiar—its pleasing contemptuous expression had looked out at me from many rotogravure pictures of the sporting life at Asheville and Hot Springs and Palm Beach.",0.7162,0.143,0.05,0.808,1,0,0
+91,"Good night, Mr. Carraway.",0.4404,0.492,0.0,0.508,1,0,0
+92,"“I haven’t heard a word.” “She’s a nice girl,” said Tom after a moment.",0.4215,0.219,0.0,0.781,1,0,0
+93,I think the home influence will be very good for her.” Daisy and Tom looked at each other for a moment in silence.,0.4927,0.138,0.0,0.862,1,0,0
+94,Our beautiful white—” “Did you give Nick a little heart to heart talk on the veranda?” demanded Tom suddenly.,0.4588,0.179,0.087,0.734,1,0,0
+95,"Yes, I’m sure we did.",0.6124,0.625,0.0,0.375,1,0,0
+96,They came to the door with me and stood side by side in a cheerful square of light.,0.5423,0.179,0.0,0.821,1,0,0
+97,"As I started my motor Daisy peremptorily called: “Wait!” “I forgot to ask you something, and it’s important.",0.2714,0.116,0.0,0.884,1,0,0
+98,"We heard you were engaged to a girl out West.” “That’s right,” corroborated Tom kindly.",0.7096,0.33,0.0,0.67,1,0,0
+99,"I’m too poor.” “But we heard it,” insisted Daisy, surprising me by opening up again in a flower-like way.",0.2732,0.11,0.0,0.89,1,0,0
+100,"“We heard it from three people, so it must be true.” Of course I knew what they were referring to, but I wasn’t even vaguely engaged.",0.5499,0.134,0.0,0.866,1,0,0
+101,"You can’t stop going with an old friend on account of rumours, and on the other hand I had no intention of being rumoured into marriage.",0.4588,0.201,0.138,0.66,1,0,0
+102,"Something in his leisurely movements and the secure position of his feet upon the lawn suggested that it was Mr. Gatsby himself, come out to determine what share was his of our local heavens.",0.743,0.191,0.0,0.809,1,0,0
+103,"About halfway between West Egg and New York the motor road hastily joins the railroad and runs beside it for a quarter of a mile, so as to shrink away from a certain desolate area of land.",0.2732,0.06,0.0,0.94,1,0,0
+104,"This is a valley of ashes—a fantastic farm where ashes grow like wheat into ridges and hills and grotesque gardens; where ashes take the forms of houses and chimneys and rising smoke and, finally, with a transcendent effort, of ash-grey men, who move dimly and already crumbling through the powdery air.",0.7269,0.115,0.0,0.885,1,0,0
+105,"But above the grey land and the spasms of bleak dust which drift endlessly over it, you perceive, after a moment, the eyes of Doctor T. J. Eckleburg.",0.0516,0.044,0.0,0.956,1,0,0
+106,"His acquaintances resented the fact that he turned up in popular cafés with her and, leaving her at a table, sauntered about, chatting with whomsoever he knew.",0.0516,0.095,0.088,0.816,1,0,0
+107,"Though I was curious to see her, I had no desire to meet her—but I did.",0.4215,0.291,0.128,0.581,1,0,0
+108,"“I want you to meet my girl.” I think he’d tanked up a good deal at luncheon, and his determination to have my company bordered on violence.",0.2023,0.216,0.128,0.656,1,0,0
+109,"He was a blond, spiritless man, anaemic, and faintly handsome.",0.2263,0.256,0.184,0.56,1,0,0
+110,When he saw us a damp gleam of hope sprang into his light blue eyes.,0.4404,0.182,0.0,0.818,1,0,0
+111,"“When are you going to sell me that car?” “Next week; I’ve got my man working on it now.” “Works pretty slow, don’t he?” “No, he doesn’t,” said Tom coldly.",0.5514,0.109,0.0,0.891,1,0,0
+112,"“And if you feel that way about it, maybe I’d better sell it somewhere else after all.” “I don’t mean that,” explained Wilson quickly.",0.4404,0.112,0.0,0.888,1,0,0
+113,"She was in the middle thirties, and faintly stout, but she carried her flesh sensuously as some women can.",0.09,0.07,0.0,0.93,1,0,0
+114,"Her face, above a spotted dress of dark blue crêpe-de-chine, contained no facet or gleam of beauty, but there was an immediately perceptible vitality about her as if the nerves of her body were continually smouldering.",0.4854,0.135,0.081,0.784,1,0,0
+115,"She smiled slowly and, walking through her husband as if he were a ghost, shook hands with Tom, looking him flush in the eye.",0.2023,0.129,0.136,0.735,1,0,0
+116,"Then she wet her lips, and without turning around spoke to her husband in a soft, coarse voice: “Get some chairs, why don’t you, so somebody can sit down.” “Oh, sure,” agreed Wilson hurriedly, and went toward the little office, mingling immediately with the cement colour of the walls.",0.2732,0.043,0.0,0.957,1,0,0
+117,"“I want to see you,” said Tom intently.",0.0772,0.157,0.0,0.843,1,0,0
+118,"It was a few days before the Fourth of July, and a grey, scrawny Italian child was setting torpedoes in a row along the railroad track.",0.0516,0.052,0.0,0.948,1,0,0
+119,“Awful.” “It does her good to get away.” “Doesn’t her husband object?” “Wilson?,0.504,0.214,0.0,0.786,1,0,0
+120,"Upstairs, in the solemn echoing drive she let four taxicabs drive away before she selected a new one, lavender-coloured with grey upholstery, and in this we slid out from the mass of the station into the glowing sunshine.",0.4767,0.111,0.033,0.856,1,0,0
+121,"“I want to get one of those dogs,” she said earnestly.",0.0772,0.115,0.0,0.885,1,0,0
+122,“I want to get one for the apartment.,0.0772,0.157,0.0,0.843,1,0,0
+123,They’re nice to have—a dog.” We backed up to a grey old man who bore an absurd resemblance to John D. Rockefeller.,0.2732,0.212,0.083,0.705,1,0,0
+124,"“What kind are they?” asked Mrs. Wilson eagerly, as he came to the taxi-window.",0.7184,0.333,0.0,0.667,1,0,0
+125,"What kind do you want, lady?” “I’d like to get one of those police dogs; I don’t suppose you got that kind?” The man peered doubtfully into the basket, plunged in his hand and drew one up, wriggling, by the back of the neck.",0.8205,0.211,0.043,0.746,1,0,0
+126,“It’s more of an Airedale.” He passed his hand over the brown washrag of a back.,0.4939,0.186,0.0,0.814,1,0,0
+127,"That’s a dog that’ll never bother you with catching cold.” “I think it’s cute,” said Mrs. Wilson enthusiastically.",0.6844,0.273,0.0,0.727,1,0,0
+128,“How much is it?” “That dog?” He looked at it admiringly.,0.5661,0.268,0.0,0.732,1,0,0
+129,"“That dog will cost you ten dollars.” The Airedale—undoubtedly there was an Airedale concerned in it somewhere, though its feet were startlingly white—changed hands and settled down into Mrs. Wilson’s lap, where she fondled the weatherproof coat with rapture.",0.0772,0.04,0.033,0.927,1,0,0
+130,“Is it a boy or a girl?” she asked delicately.,0.25,0.222,0.0,0.778,1,0,0
+131,"Go and buy ten more dogs with it.” We drove over to Fifth Avenue, warm and soft, almost pastoral, on the summer Sunday afternoon.",0.2263,0.076,0.0,0.924,1,0,0
+132,I wouldn’t have been surprised to see a great flock of white sheep turn the corner.,0.7184,0.333,0.0,0.667,1,0,0
+133,"She’s said to be very beautiful by people who ought to know.” “Well, I’d like to, but—” We went on, cutting back again over the Park toward the West Hundreds.",0.7346,0.19,0.043,0.767,1,0,0
+134,"“And, of course, I got to call up my sister, too.” The apartment was on the top floor—a small living-room, a small dining-room, a small bedroom, and a bath.",0.2023,0.07,0.0,0.93,1,0,0
+135,"Looked at from a distance, however, the hen resolved itself into a bonnet, and the countenance of a stout old lady beamed down into the room.",0.34,0.139,0.0,0.861,1,0,0
+136,"I have been drunk just twice in my life, and the second time was that afternoon; so everything that happened has a dim, hazy cast over it, although until after eight o’clock the apartment was full of cheerful sun.",0.2732,0.086,0.059,0.856,1,0,0
+137,"The sister, Catherine, was a slender, worldly girl of about thirty, with a solid, sticky bob of red hair, and a complexion powdered milky white.",0.1531,0.071,0.0,0.929,1,0,0
+138,"But when I asked her she laughed immoderately, repeated my question aloud, and told me she lived with a girl friend at a hotel.",0.7351,0.246,0.0,0.754,1,0,0
+139,"He had just shaved, for there was a white spot of lather on his cheekbone, and he was most respectful in his greeting to everyone in the room.",0.7089,0.191,0.0,0.809,1,0,0
+140,"He informed me that he was in the “artistic game,” and I gathered later that he was a photographer and had made the dim enlargement of Mrs. Wilson’s mother which hovered like an ectoplasm on the wall.",0.3612,0.068,0.0,0.932,1,0,0
+141,She told me with pride that her husband had photographed her a hundred and twenty-seven times since they had been married.,0.34,0.112,0.0,0.888,1,0,0
+142,The intense vitality that had been so remarkable in the garage was converted into impressive hauteur.,0.8889,0.49,0.0,0.51,1,0,0
+143,"“I just slip it on sometimes when I don’t care what I look like.” “But it looks wonderful on you, if you know what I mean,” pursued Mrs. McKee.",0.7845,0.223,0.0,0.777,1,0,0
+144,"“If Chester could only get you in that pose I think he could make something of it.” We all looked in silence at Mrs. Wilson, who removed a strand of hair from over her eyes and looked back at us with a brilliant smile.",0.743,0.139,0.0,0.861,1,0,0
+145,"Mr. McKee regarded her intently with his head on one side, and then moved his hand back and forth slowly in front of his face.",0.4939,0.118,0.0,0.882,1,0,0
+146,“I’d like to bring out the modelling of the features.,0.3612,0.217,0.0,0.783,1,0,0
+147,You have to keep after them all the time.” She looked at me and laughed pointlessly.,0.4588,0.167,0.0,0.833,1,0,0
+148,"Then she flounced over to the dog, kissed it with ecstasy, and swept into the kitchen, implying that a dozen chefs awaited her orders there.",0.7506,0.227,0.038,0.734,1,0,0
+149,"“I’ve done some nice things out on Long Island,” asserted Mr. McKee.",0.4215,0.203,0.0,0.797,1,0,0
+150,I was down there at a party about a month ago.,0.4019,0.278,0.0,0.722,1,0,0
+151,"“I’d like to do more work on Long Island, if I could get the entry.",0.3612,0.161,0.0,0.839,1,0,0
+152,"All I ask is that they should give me a start.” “Ask Myrtle,” said Tom, breaking into a short shout of laughter as Mrs. Wilson entered with a tray.",0.4939,0.118,0.0,0.882,1,0,0
+153,"“You’ll give McKee a letter of introduction to your husband, so he can do some studies of him.” His lips moved silently for a moment as he invented, “ ‘George B. Wilson at the Gasoline Pump,’ or something like that.” Catherine leaned close to me and whispered in my ear: “Neither of them can stand the person they’re married to.” “Can’t they?” “Can’t stand them.” She looked at Myrtle and then at Tom.",0.3612,0.035,0.0,0.965,1,0,0
+154,If I was them I’d get a divorce and get married to each other right away.” “Doesn’t she like Wilson either?” The answer to this was unexpected.,0.3612,0.094,0.0,0.906,1,0,0
+155,"“You see,” cried Catherine triumphantly.",0.1779,0.371,0.292,0.337,1,0,0
+156,"“When they do get married,” continued Catherine, “they’re going West to live for a while until it blows over.” “It’d be more discreet to go to Europe.” “Oh, do you like Europe?” she exclaimed surprisingly.",0.5719,0.128,0.0,0.872,1,0,0
+157,I tried to show by my expression that I expected no affection.,0.296,0.25,0.162,0.588,1,0,0
+158,"He borrowed somebody’s best suit to get married in, and never even told me about it, and the man came after it one day when he was out: ‘Oh, is that your suit?’ I said.",0.6369,0.113,0.0,0.887,1,0,0
+159,"And Tom’s the first sweetie she ever had.” The bottle of whisky—a second one—was now in constant demand by all present, excepting Catherine, who “felt just as good on nothing at all.” Tom rang for the janitor and sent him for some celebrated sandwiches, which were a complete supper in themselves.",0.8519,0.171,0.026,0.803,1,0,0
+160,"Yet high over the city our line of yellow windows must have contributed their share of human secrecy to the casual watcher in the darkening streets, and I saw him too, looking up and wondering.",0.4588,0.111,0.0,0.889,1,0,0
+161,"Myrtle pulled her chair close to mine, and suddenly her warm breath poured over me the story of her first meeting with Tom.",0.2263,0.079,0.0,0.921,1,0,0
+162,I was so excited that when I got into a taxi with him I didn’t hardly know I wasn’t getting into a subway train.,0.4005,0.137,0.0,0.863,1,0,0
+163,"All I kept thinking about, over and over, was ‘You can’t live forever; you can’t live forever.’ ” She turned to Mrs. McKee and the room rang full of her artificial laughter.",0.4939,0.099,0.0,0.901,1,0,0
+164,"A massage and a wave, and a collar for the dog, and one of those cute little ashtrays where you touch a spring, and a wreath with a black silk bow for mother’s grave that’ll last all summer.",0.1027,0.084,0.073,0.843,1,0,0
+165,"Mr. McKee was asleep on a chair with his fists clenched in his lap, like a photograph of a man of action.",0.3612,0.122,0.0,0.878,1,0,0
+166,“I’ll say it whenever I want to!,0.1511,0.242,0.0,0.758,1,0,0
+167,"Dai—” Making a short deft movement, Tom Buchanan broke her nose with his open hand.",0.1027,0.178,0.156,0.667,1,0,0
+168,"“I beg your pardon,” said Mr. McKee with dignity, “I didn’t know I was touching it.” “All right,” I agreed, “I’ll be glad to.” … I was standing beside his bed and he was sitting up between the sheets, clad in his underwear, with a great portfolio in his hands.",0.8979,0.225,0.0,0.775,1,0,0
+169,In his blue gardens men and girls came and went like moths among the whisperings and the champagne and the stars.,0.5719,0.198,0.0,0.802,1,0,0
+170,"At high tide in the afternoon I watched his guests diving from the tower of his raft, or taking the sun on the hot sand of his beach while his two motorboats slit the waters of the Sound, drawing aquaplanes over cataracts of foam.",0.0772,0.03,0.0,0.97,1,0,0
+171,"On weekends his Rolls-Royce became an omnibus, bearing parties to and from the city between nine in the morning and long past midnight, while his station wagon scampered like a brisk yellow bug to meet all trains.",0.7003,0.171,0.0,0.829,1,0,0
+172,"The last swimmers have come in from the beach now and are dressing upstairs; the cars from New York are parked five deep in the drive, and already the halls and salons and verandas are gaudy with primary colours, and hair bobbed in strange new ways, and shawls beyond the dreams of Castile.",0.2263,0.049,0.032,0.919,1,0,0
+173,"The bar is in full swing, and floating rounds of cocktails permeate the garden outside, until the air is alive with chatter and laughter, and casual innuendo and introductions forgotten on the spot, and enthusiastic meetings between women who never knew each other’s names.",0.836,0.209,0.037,0.754,1,0,0
+174,"The lights grow brighter as the earth lurches away from the sun, and now the orchestra is playing yellow cocktail music, and the opera of voices pitches a key higher.",0.5267,0.14,0.0,0.86,1,0,0
+175,"Laughter is easier minute by minute, spilled with prodigality, tipped out at a cheerful word.",0.8591,0.463,0.0,0.537,1,0,0
+176,"The groups change more swiftly, swell with new arrivals, dissolve and form in the same breath; already there are wanderers, confident girls who weave here and there among the stouter and more stable, become for a sharp, joyous moment the centre of a group, and then, excited with triumph, glide on through the sea-change of faces and voices and colour under the constantly changing light.",0.95,0.238,0.0,0.762,1,0,0
+177,The party has begun.,0.4019,0.474,0.0,0.526,1,0,0
+178,"Once there they were introduced by somebody who knew Gatsby, and after that they conducted themselves according to the rules of behaviour associated with an amusement park.",0.3612,0.088,0.0,0.912,1,0,0
+179,"Sometimes they came and went without having met Gatsby at all, came for the party with a simplicity of heart that was its own ticket of admission.",0.4019,0.097,0.0,0.903,1,0,0
+180,"A chauffeur in a uniform of robin’s-egg blue crossed my lawn early that Saturday morning with a surprisingly formal note from his employer: the honour would be entirely Gatsby’s, it said, if I would attend his “little party” that night.",0.7096,0.148,0.0,0.852,1,0,0
+181,"He had seen me several times, and had intended to call on me long before, but a peculiar combination of circumstances had prevented it—signed Jay Gatsby, in a majestic hand.",0.7469,0.227,0.0,0.773,1,0,0
+182,"I was immediately struck by the number of young Englishmen dotted about; all well dressed, all looking a little hungry, and all talking in low, earnest voices to solid and prosperous Americans.",0.743,0.296,0.106,0.597,1,0,0
+183,I was sure that they were selling something: bonds or insurance or automobiles.,0.3182,0.173,0.0,0.827,1,0,0
+184,They were at least agonizingly aware of the easy money in the vicinity and convinced that it was theirs for a few words in the right key.,0.3182,0.176,0.103,0.721,1,0,0
+185,"Welcome or not, I found it necessary to attach myself to someone before I should begin to address cordial remarks to the passersby.",0.4588,0.13,0.0,0.87,1,0,0
+186,"“I remembered you lived next door to—” She held my hand impersonally, as a promise that she’d take care of me in a minute, and gave ear to two girls in twin yellow dresses, who stopped at the foot of the steps.",0.7783,0.187,0.041,0.773,1,0,0
+187,“Do you come to these parties often?” inquired Jordan of the girl beside her.,0.4019,0.172,0.0,0.828,1,0,0
+188,"“The last one was the one I met you at,” answered the girl, in an alert confident voice.",0.6597,0.265,0.0,0.735,1,0,0
+189,"“I like to come,” Lucille said.",0.3612,0.333,0.0,0.667,1,0,0
+190,"“I never care what I do, so I always have a good time.",0.137,0.229,0.191,0.58,1,0,0
+191,"Two hundred and sixty-five dollars.” “There’s something funny about a fellow that’ll do a thing like that,” said the other girl eagerly.",0.7906,0.32,0.0,0.68,1,0,0
+192,The three Mr. Mumbles bent forward and listened eagerly.,0.3818,0.245,0.0,0.755,1,0,0
+193,"“I heard that from a man who knew all about him, grew up with him in Germany,” he assured us positively.",0.7096,0.247,0.0,0.753,1,0,0
+194,"“Oh, no,” said the first girl, “it couldn’t be that, because he was in the American army during the war.” As our credulity switched back to her she leaned forward with enthusiasm.",0.4404,0.086,0.0,0.914,1,0,0
+195,It was testimony to the romantic speculation he inspired that there were whispers about him from those who had found little that it was necessary to whisper about in this world.,0.7096,0.169,0.0,0.831,1,0,0
+196,"The first supper—there would be another one after midnight—was now being served, and Jordan invited me to join her own party, who were spread around a table on the other side of the garden.",0.5994,0.136,0.0,0.864,1,0,0
+197,"Instead of rambling, this party had preserved a dignified homogeneity, and assumed to itself the function of representing the staid nobility of the countryside—East Egg condescending to West Egg and carefully on guard against its spectroscopic gaiety.",0.7798,0.192,0.0,0.808,1,0,0
+198,"She couldn’t find him from the top of the steps, and he wasn’t on the veranda.",0.2023,0.107,0.0,0.893,1,0,0
+199,"A stout, middle-aged man, with enormous owl-eyed spectacles, was sitting somewhat drunk on the edge of a great table, staring with unsteady concentration at the shelves of books.",0.5709,0.188,0.068,0.744,1,0,0
+200,As we entered he wheeled excitedly around and examined Jordan from head to foot.,0.5106,0.202,0.0,0.798,1,0,0
+201,“About what?” He waved his hand toward the bookshelves.,0.4939,0.286,0.0,0.714,1,0,0
+202,I thought they’d be a nice durable cardboard.,0.4215,0.359,0.0,0.641,1,0,0
+203,"Lemme show you.” Taking our scepticism for granted, he rushed to the bookcases and returned with Volume One of the Stoddard Lectures.",0.0516,0.084,0.076,0.84,1,0,0
+204,“See!” he cried triumphantly.,0.2481,0.438,0.317,0.244,1,0,0
+205,It’s a triumph.,0.4767,0.756,0.0,0.244,1,0,0
+206,But what do you want?,0.0772,0.245,0.0,0.755,1,0,0
+207,"Most people were brought.” Jordan looked at him alertly, cheerfully, without answering.",0.4767,0.22,0.0,0.78,1,0,0
+208,"There was dancing now on the canvas in the garden; old men pushing young girls backward in eternal graceless circles, superior couples holding each other tortuously, fashionably, and keeping in the corners—and a great number of single girls dancing individually or relieving the orchestra for a moment of the burden of the banjo or the traps.",0.8176,0.18,0.046,0.774,1,0,0
+209,By midnight the hilarity had increased.,0.2732,0.296,0.0,0.704,1,0,0
+210,"A celebrated tenor had sung in Italian, and a notorious contralto had sung in jazz, and between the numbers people were doing “stunts” all over the garden, while happy, vacuous bursts of laughter rose toward the summer sky.",0.8271,0.233,0.064,0.703,1,0,0
+211,"A pair of stage twins, who turned out to be the girls in yellow, did a baby act in costume, and champagne was served in glasses bigger than finger-bowls.",0.296,0.078,0.0,0.922,1,0,0
+212,"We were sitting at a table with a man of about my age and a rowdy little girl, who gave way upon the slightest provocation to uncontrollable laughter.",0.1779,0.111,0.087,0.801,1,0,0
+213,I was enjoying myself now.,0.5267,0.531,0.0,0.469,1,0,0
+214,"I had taken two finger-bowls of champagne, and the scene had changed before my eyes into something significant, elemental, and profound.",0.4588,0.182,0.0,0.818,1,0,0
+215,At a lull in the entertainment the man looked at me and smiled.,0.743,0.387,0.0,0.613,1,0,0
+216,“Weren’t you in the First Division during the war?” “Why yes.,0.4019,0.213,0.0,0.787,1,0,0
+217,"I knew I’d seen you somewhere before.” We talked for a moment about some wet, grey little villages in France.",0.0516,0.066,0.0,0.934,1,0,0
+218,Just near the shore along the Sound.” “What time?” “Any time that suits you best.” It was on the tip of my tongue to ask his name when Jordan looked around and smiled.,0.5423,0.099,0.0,0.901,1,0,0
+219,“This is an unusual party for me.,0.4019,0.31,0.0,0.69,1,0,0
+220,I’m afraid I’m not a very good host.” He smiled understandingly—much more than understandingly.,0.2209,0.204,0.153,0.642,1,0,0
+221,"It was one of those rare smiles with a quality of eternal reassurance in it, that you may come across four or five times in life.",0.6808,0.196,0.0,0.804,1,0,0
+222,"It faced—or seemed to face—the whole eternal world for an instant, and then concentrated on you with an irresistible prejudice in your favour.",0.25,0.185,0.115,0.699,1,0,0
+223,"It understood you just so far as you wanted to be understood, believed in you as you would like to believe in yourself, and assured you that it had precisely the impression of you that, at your best, you hoped to convey.",0.9136,0.27,0.0,0.73,1,0,0
+224,"Precisely at that point it vanished—and I was looking at an elegant young roughneck, a year or two over thirty, whose elaborate formality of speech just missed being absurd.",0.2263,0.102,0.073,0.825,1,0,0
+225,Some time before he introduced himself I’d got a strong impression that he was picking his words with care.,0.8126,0.359,0.0,0.641,1,0,0
+226,"“If you want anything just ask for it, old sport,” he urged me.",0.0772,0.098,0.0,0.902,1,0,0
+227,I will rejoin you later.” When he was gone I turned immediately to Jordan—constrained to assure her of my surprise.,0.5423,0.22,0.0,0.78,1,0,0
+228,"And what does he do?” “Now you’re started on the subject,” she answered with a wan smile.",0.3612,0.143,0.0,0.857,1,0,0
+229,“And I like large parties.,0.6369,0.722,0.0,0.278,1,0,0
+230,"At small parties there isn’t any privacy.” There was the boom of a bass drum, and the voice of the orchestra leader rang out suddenly above the echolalia of the garden.",0.4019,0.085,0.0,0.915,1,0,0
+231,"“At the request of Mr. Gatsby we are going to play for you Mr. Vladmir Tostoff’s latest work, which attracted so much attention at Carnegie Hall last May.",0.6369,0.167,0.0,0.833,1,0,0
+232,"If you read the papers you know there was a big sensation.” He smiled with jovial condescension, and added: “Some sensation!” Whereupon everybody laughed.",0.8655,0.326,0.0,0.674,1,0,0
+233,His tanned skin was drawn attractively tight on his face and his short hair looked as though it were trimmed every day.,0.4939,0.132,0.0,0.868,1,0,0
+234,I could see nothing sinister about him.,0.4847,0.386,0.0,0.614,1,0,0
+235,"I wondered if the fact that he was not drinking helped to set him off from his guests, for it seemed to me that he grew more correct as the fraternal hilarity increased.",0.2732,0.063,0.0,0.937,1,0,0
+236,"“I beg your pardon, but Mr. Gatsby would like to speak to you alone.” “With me?” she exclaimed in surprise.",0.7615,0.308,0.0,0.692,1,0,0
+237,"I noticed that she wore her evening-dress, all her dresses, like sports clothes—there was a jauntiness about her movements as if she had first learned to walk upon golf courses on clean, crisp mornings.",0.6369,0.148,0.0,0.852,1,0,0
+238,"Eluding Jordan’s undergraduate, who was now engaged in an obstetrical conversation with two chorus girls, and who implored me to join him, I went inside.",0.5994,0.182,0.0,0.818,1,0,0
+239,"One of the girls in yellow was playing the piano, and beside her stood a tall, red-haired young lady from a famous chorus, engaged in song.",0.5423,0.17,0.0,0.83,1,0,0
+240,"The tears coursed down her cheeks—not freely, however, for when they came into contact with her heavily beaded eyelashes they assumed an inky colour, and pursued the rest of their way in slow black rivulets.",0.25,0.077,0.05,0.873,1,0,0
+241,"A humorous suggestion was made that she sing the notes on her face, whereupon she threw up her hands, sank into a chair, and went off into a deep vinous sleep.",0.3818,0.088,0.0,0.912,1,0,0
+242,"Even Jordan’s party, the quartet from East Egg, were rent asunder by dissension.",0.4019,0.184,0.0,0.816,1,0,0
+243,"One of the men was talking with curious intensity to a young actress, and his wife, after attempting to laugh at the situation in a dignified and indifferent way, broke down entirely and resorted to flank attacks—at intervals she appeared suddenly at his side like an angry diamond, and hissed: “You promised!” into his ear.",0.75,0.213,0.118,0.67,1,0,0
+244,"He was saying some last word to her, but the eagerness in his manner tightened abruptly into formality as several people approached him to say goodbye.",0.5499,0.124,0.0,0.876,1,0,0
+245,"“I’ve just heard the most amazing thing,” she whispered.",0.624,0.338,0.0,0.662,1,0,0
+246,“But I swore I wouldn’t tell it and here I am tantalizing you.” She yawned gracefully in my face.,0.5267,0.185,0.0,0.815,1,0,0
+247,“Please come and see me … Phone book … Under the name of Mrs. Sigourney Howard … My aunt …” She was hurrying off as she talked—her brown hand waved a jaunty salute as she melted into her party at the door.,0.7964,0.188,0.0,0.812,1,0,0
+248,I wanted to explain that I’d hunted for him early in the evening and to apologize for not having known him in the garden.,0.1027,0.06,0.0,0.94,1,0,0
+249,"“Don’t mention it,” he enjoined me eagerly.",0.3818,0.302,0.0,0.698,1,0,0
+250,"“Don’t give it another thought, old sport.” The familiar expression held no more familiarity than the hand which reassuringly brushed my shoulder.",0.5859,0.221,0.081,0.699,1,0,0
+251,"Tell them I’ll be right there … Good night.” “Good night.” “Good night.” He smiled—and suddenly there seemed to be a pleasant significance in having been among the last to go, as if he had desired it all the time.",0.8555,0.234,0.0,0.766,1,0,0
+252,"“Good night, old sport … Good night.” But as I walked down the steps I saw that the evening was not quite over.",0.4404,0.132,0.0,0.868,1,0,0
+253,"The sharp jut of a wall accounted for the detachment of the wheel, which was now getting considerable attention from half a dozen curious chauffeurs.",0.3182,0.095,0.0,0.905,1,0,0
+254,“Do you want to commit suicide?” “You’re lucky it was just a wheel!,0.68,0.423,0.0,0.577,1,0,0
+255,“Wha’s matter?” he inquired calmly.,0.3182,0.365,0.0,0.635,1,0,0
+256,"Then, taking a long breath and straightening his shoulders, he remarked in a determined voice: “Wonder’ff tell me where there’s a gas’line station?” At least a dozen men, some of them a little better off than he was, explained to him that wheel and car were no longer joined by any physical bond.",0.4228,0.096,0.042,0.862,1,0,0
+257,"A wafer of a moon was shining over Gatsby’s house, making the night fine as before, and surviving the laughter and the sound of his still glowing garden.",0.7351,0.238,0.0,0.762,1,0,0
+258,"A sudden emptiness seemed to flow now from the windows and the great doors, endowing with complete isolation the figure of the host, who stood on the porch, his hand up in a formal gesture of farewell.",0.4019,0.166,0.128,0.706,1,0,0
+259,"Reading over what I have written so far, I see I have given the impression that the events of three nights several weeks apart were all that absorbed me.",0.2263,0.071,0.0,0.929,1,0,0
+260,"On the contrary, they were merely casual events in a crowded summer, and, until much later, they absorbed me infinitely less than my personal affairs.",0.2023,0.073,0.0,0.927,1,0,0
+261,In the early morning the sun threw my shadow westward as I hurried down the white chasms of lower New York to the Probity Trust.,0.2732,0.12,0.08,0.8,1,0,0
+262,"There were generally a few rioters around, but they never came into the library, so it was a good place to work.",0.6423,0.183,0.0,0.817,1,0,0
+263,"I began to like New York, the racy, adventurous feel of it at night, and the satisfaction that the constant flicker of men and women and machines gives to the restless eye.",0.6908,0.211,0.057,0.732,1,0,0
+264,"I liked to walk up Fifth Avenue and pick out romantic women from the crowd and imagine that in a few minutes I was going to enter into their lives, and no one would ever know or disapprove.",0.5106,0.139,0.055,0.806,1,0,0
+265,"Sometimes, in my mind, I followed them to their apartments on the corners of hidden streets, and they turned and smiled back at me before they faded through a door into warm darkness.",0.5267,0.153,0.056,0.791,1,0,0
+266,"Forms leaned together in the taxis as they waited, and voices sang, and there was laughter from unheard jokes, and lighted cigarettes made unintelligible circles inside.",0.6369,0.178,0.0,0.822,1,0,0
+267,"Imagining that I, too, was hurrying towards gaiety and sharing their intimate excitement, I wished them well.",0.7964,0.384,0.0,0.616,1,0,0
+268,"At first I was flattered to go places with her, because she was a golf champion, and everyone knew her name.",0.7579,0.277,0.0,0.723,1,0,0
+269,"I wasn’t actually in love, but I felt a sort of tender curiosity.",0.3818,0.224,0.0,0.776,1,0,0
+270,"Jordan Baker instinctively avoided clever, shrewd men, and now I saw that this was because she felt safer on a plane where any divergence from a code would be thought impossible.",0.5267,0.175,0.072,0.753,1,0,0
+271,"She wasn’t able to endure being at a disadvantage and, given this unwillingness, I suppose she had begun dealing in subterfuges when she was very young in order to keep that cool, insolent smile turned to the world and yet satisfy the demands of her hard, jaunty body.",0.7003,0.185,0.077,0.738,1,0,0
+272,"Dishonesty in a woman is a thing you never blame deeply—I was casually sorry, and then I forgot.",0.3476,0.219,0.076,0.704,1,0,0
+273,It was on that same house-party that we had a curious conversation about driving a car.,0.3182,0.15,0.0,0.85,1,0,0
+274,"“Either you ought to be more careful, or you oughtn’t to drive at all.” “I am careful.” “No, you’re not.” “Well, other people are,” she said lightly.",0.2247,0.068,0.0,0.932,1,0,0
+275,"“It takes two to make an accident.” “Suppose you met somebody just as careless as yourself.” “I hope I never will,” she answered.",0.1027,0.114,0.098,0.787,1,0,0
+276,"That’s why I like you.” Her grey, sun-strained eyes stared straight ahead, but she had deliberately shifted our relations, and for a moment I thought I loved her.",0.8248,0.325,0.0,0.675,1,0,0
+277,"But I am slow-thinking and full of interior rules that act as brakes on my desires, and I knew that first I had to get myself definitely out of that tangle back home.",0.4019,0.085,0.0,0.915,1,0,0
+278,"I’d been writing letters once a week and signing them: “Love, Nick,” and all I could think of was how, when that certain girl played tennis, a faint moustache of perspiration appeared on her upper lip.",0.5423,0.127,0.0,0.873,1,0,0
+279,"Everyone suspects himself of at least one of the cardinal virtues, and this is mine: I am one of the few honest people that I have ever known.",0.5267,0.186,0.077,0.737,1,0,0
+280,"It is an old timetable now, disintegrating at its folds, and headed “This schedule in effect July 5th, 1922.” But I can still read the grey names, and they will give you a better impression than my generalities of those who accepted Gatsby’s hospitality and paid him the subtle tribute of knowing nothing whatever about him.",0.7269,0.139,0.0,0.861,1,0,0
+281,"And the Hornbeams and the Willie Voltaires, and a whole clan named Blackbuck, who always gathered in a corner and flipped up their noses like goats at whosoever came near.",0.3612,0.085,0.0,0.915,1,0,0
+282,"And the Ismays and the Chrysties (or rather Hubert Auerbach and Mr. Chrystie’s wife), and Edgar Beaver, whose hair, they say, turned cotton-white one winter afternoon for no good reason at all.",0.1779,0.083,0.063,0.855,1,0,0
+283,"The Dancies came, too, and S. B. Whitebait, who was well over sixty, and Maurice A. Flink, and the Hammerheads, and Beluga the tobacco importer, and Beluga’s girls.",0.2732,0.072,0.0,0.928,1,0,0
+284,"From West Egg came the Poles and the Mulreadys and Cecil Roebuck and Cecil Schoen and Gulick the State senator and Newton Orchid, who controlled Films Par Excellence, and Eckhaust and Clyde Cohen and Don S. Schwartz (the son) and Arthur McCarty, all connected with the movies in one way or another.",0.6249,0.074,0.0,0.926,1,0,0
+285,"(“Rot-Gut”) Ferret and the De Jongs and Ernest Lilly—they came to gamble, and when Ferret wandered into the garden it meant he was cleaned out and Associated Traction would have to fluctuate profitably next day.",0.3818,0.071,0.0,0.929,1,0,0
+286,"I have forgotten their names—Jaqueline, I think, or else Consuela, or Gloria or Judy or June, and their last names were either the melodious names of flowers and months or the sterner ones of the great American capitalists whose cousins, if pressed, they would confess themselves to be.",0.4939,0.082,0.038,0.88,1,0,0
+287,"At nine o’clock, one morning late in July, Gatsby’s gorgeous car lurched up the rocky drive to my door and gave out a burst of melody from its three-noted horn.",0.6124,0.125,0.0,0.875,1,0,0
+288,"It was the first time he had called on me, though I had gone to two of his parties, mounted in his hydroplane, and, at his urgent invitation, made frequent use of his beach.",0.5423,0.127,0.0,0.873,1,0,0
+289,He was never quite still; there was always a tapping foot somewhere or the impatient opening and closing of a hand.,0.25,0.143,0.098,0.759,1,0,0
+290,He saw me looking with admiration at his car.,0.5423,0.304,0.0,0.696,1,0,0
+291,"“It’s pretty, isn’t it, old sport?” He jumped off to give me a better view.",0.7269,0.337,0.0,0.663,1,0,0
+292,"It was a rich cream colour, bright with nickel, swollen here and there in its monstrous length with triumphant hatboxes and supper-boxes and toolboxes, and terraced with a labyrinth of windshields that mirrored a dozen suns.",0.872,0.248,0.0,0.752,1,0,0
+293,"So my first impression, that he was a person of some undefined consequence, had gradually faded and he had become simply the proprietor of an elaborate roadhouse next door.",0.2878,0.074,0.0,0.926,1,0,0
+294,We hadn’t reached West Egg village before Gatsby began leaving his elegant sentences unfinished and slapping himself indecisively on the knee of his caramel-coloured suit.,0.4588,0.201,0.06,0.739,1,0,0
+295,“I’ll tell you God’s truth.” His right hand suddenly ordered divine retribution to stand by.,0.7783,0.343,0.0,0.657,1,0,0
+296,“What part of the Middle West?” I inquired casually.,0.1779,0.195,0.0,0.805,1,0,0
+297,"For a moment I suspected that he was pulling my leg, but a glance at him convinced me otherwise.",0.4767,0.187,0.076,0.737,1,0,0
+298,"“After that I lived like a young rajah in all the capitals of Europe—Paris, Venice, Rome—collecting jewels, chiefly rubies, hunting big game, painting a little, things for myself only, and trying to forget something very sad that had happened to me long ago.” With an effort I managed to restrain my incredulous laughter.",0.5279,0.15,0.091,0.759,1,0,0
+299,"It was a great relief, and I tried very hard to die, but I seemed to bear an enchanted life.",0.6214,0.334,0.164,0.501,1,0,0
+300,I accepted a commission as first lieutenant when it began.,0.2732,0.231,0.0,0.769,1,0,0
+301,"I was promoted to be a major, and every Allied government gave me a decoration—even Montenegro, little Montenegro down on the Adriatic Sea!” Little Montenegro!",0.5242,0.139,0.0,0.861,1,0,0
+302,He lifted up the words and nodded at them—with his smile.,0.3612,0.2,0.0,0.8,1,0,0
+303,The smile comprehended Montenegro’s troubled history and sympathized with the brave struggles of the Montenegrin people.,0.1027,0.252,0.235,0.513,1,0,0
+304,It appreciated fully the chain of national circumstances which had elicited this tribute from Montenegro’s warm little heart.,0.6369,0.245,0.0,0.755,1,0,0
+305,My incredulity was submerged in fascination now; it was like skimming hastily through a dozen magazines.,0.6908,0.305,0.0,0.695,1,0,0
+306,"He reached in his pocket, and a piece of metal, slung on a ribbon, fell into my palm.",0.1027,0.085,0.0,0.915,1,0,0
+307,"There was Gatsby, looking a little, not much, younger—with a cricket bat in his hand.",0.4939,0.211,0.0,0.789,1,0,0
+308,Then it was all true.,0.4215,0.412,0.0,0.588,1,0,0
+309,"I saw the skins of tigers flaming in his palace on the Grand Canal; I saw him opening a chest of rubies to ease, with their crimson-lighted depths, the gnawings of his broken heart.",0.34,0.15,0.085,0.765,1,0,0
+310,"“I’m going to make a big request of you today,” he said, pocketing his souvenirs with satisfaction, “so I thought you ought to know something about me.",0.4404,0.108,0.0,0.892,1,0,0
+311,I didn’t want you to think I was just some nobody.,0.0772,0.14,0.0,0.86,1,0,0
+312,"I happened to find out that you’re taking Miss Baker to tea.” “Do you mean you’re in love with Miss Baker?” “No, old sport, I’m not.",0.4588,0.143,0.109,0.748,1,0,0
+313,"But Miss Baker has kindly consented to speak to you about this matter.” I hadn’t the faintest idea what “this matter” was, but I was more annoyed than interested.",0.2278,0.177,0.15,0.673,1,0,0
+314,"I was sure the request would be something utterly fantastic, and for a moment I was sorry I’d ever set foot upon his overpopulated lawn.",0.7089,0.234,0.049,0.717,1,0,0
+315,"“Right you are,” agreed the policeman, tipping his cap.",0.2732,0.208,0.0,0.792,1,0,0
+316,Excuse me!” “What was that?” I inquired.,0.1511,0.242,0.0,0.758,1,0,0
+317,"“The picture of Oxford?” “I was able to do the commissioner a favour once, and he sends me a Christmas card every year.” Over the great bridge, with the sunlight through the girders making a constant flicker upon the moving cars, with the city rising up across the river in white heaps and sugar lumps all built with a wish out of nonolfactory money.",0.8658,0.145,0.0,0.855,1,0,0
+318,"The city seen from the Queensboro Bridge is always the city seen for the first time, in its first wild promise of all the mystery and the beauty in the world.",0.7269,0.174,0.0,0.826,1,0,0
+319,"A dead man passed us in a hearse heaped with blooms, followed by two carriages with drawn blinds, and by more cheerful carriages for friends.",0.3804,0.221,0.138,0.641,1,0,0
+320,"The friends looked out at us with the tragic eyes and short upper lips of southeastern Europe, and I was glad that the sight of Gatsby’s splendid car was included in their sombre holiday.",0.8625,0.289,0.069,0.642,1,0,0
+321,I laughed aloud as the yolks of their eyeballs rolled toward us in haughty rivalry.,0.4588,0.188,0.0,0.812,1,0,0
+322,"Blinking away the brightness of the street outside, my eyes picked him out obscurely in the anteroom, talking to another man.",0.3818,0.115,0.0,0.885,1,0,0
+323,"Carraway, this is my friend Mr. Wolfshiem.” A small, flat-nosed Jew raised his large head and regarded me with two fine growths of hair which luxuriated in either nostril.",0.6124,0.161,0.0,0.839,1,0,0
+324,"“—So I took one look at him,” said Mr. Wolfshiem, shaking my hand earnestly, “and what do you think I did?” “What?” I inquired politely.",0.4329,0.141,0.067,0.792,1,0,0
+325,"But evidently he was not addressing me, for he dropped my hand and covered Gatsby with his expressive nose.",0.4939,0.151,0.0,0.849,1,0,0
+326,"“This is a nice restaurant here,” said Mr. Wolfshiem, looking at the presbyterian nymphs on the ceiling.",0.4215,0.157,0.0,0.843,1,0,0
+327,"“But I like across the street better!” “Yes, highballs,” agreed Gatsby, and then to Mr. Wolfshiem: “It’s too hot over there.” “Hot and small—yes,” said Mr. Wolfshiem, “but full of memories.” “What place is that?” I asked.",0.5983,0.129,0.0,0.871,1,0,0
+328,Filled with friends gone now forever.,0.4767,0.383,0.0,0.617,1,0,0
+329,When it was almost morning the waiter came up to him with a funny look and says somebody wants to speak to him outside.,0.4404,0.116,0.0,0.884,1,0,0
+330,"“ ‘Let the bastards come in here if they want you, Rosy, but don’t you, so help me, move outside this room.’ “It was four o’clock in the morning then, and if we’d of raised the blinds we’d of seen daylight.” “Did he go?” I asked innocently.",0.757,0.171,0.048,0.781,1,0,0
+331,"“Five, with Becker.” His nostrils turned to me in an interested way.",0.4019,0.197,0.0,0.803,1,0,0
+332,“I understand you’re looking for a business gonnegtion.” The juxtaposition of these two remarks was startling.,0.0772,0.085,0.0,0.915,1,0,0
+333,“This is just a friend.,0.4939,0.516,0.0,0.484,1,0,0
+334,"“I don’t like mysteries,” I answered, “and I don’t understand why you won’t come out frankly and tell me what you want.",0.4215,0.174,0.0,0.826,1,0,0
+335,"“Miss Baker’s a great sportswoman, you know, and she’d never do anything that wasn’t all right.” Suddenly he looked at his watch, jumped up, and hurried from the room, leaving me with Mr. Wolfshiem at the table.",0.6249,0.105,0.0,0.895,1,0,0
+336,Handsome to look at and a perfect gentleman.” “Yes.” “He’s an Oggsford man.” “Oh!” “He went to Oggsford College in England.,0.8016,0.285,0.0,0.715,1,0,0
+337,"“Several years,” he answered in a gratified way.",0.3818,0.302,0.0,0.698,1,0,0
+338,But I knew I had discovered a man of fine breeding after I talked with him an hour.,0.2023,0.122,0.0,0.878,1,0,0
+339,I said to myself: ‘There’s the kind of man you’d like to take home and introduce to your mother and sister.’ ” He paused.,0.3612,0.106,0.0,0.894,1,0,0
+340,“That’s a very interesting idea.” “Yeah.” He flipped his sleeves up under his coat.,0.4576,0.2,0.0,0.8,1,0,0
+341,"“Yeah, Gatsby’s very careful about women.",0.2247,0.275,0.0,0.725,1,0,0
+342,He would never so much as look at a friend’s wife.” When the subject of this instinctive trust returned to the table and sat down Mr. Wolfshiem drank his coffee with a jerk and got to his feet.,0.2263,0.083,0.06,0.856,1,0,0
+343,"“I have enjoyed my lunch,” he said, “and I’m going to run off from you two young men before I outstay my welcome.” “Don’t hurry Meyer,” said Gatsby, without enthusiasm.",0.2249,0.101,0.074,0.826,1,0,0
+344,Mr. Wolfshiem raised his hand in a sort of benediction.,0.4939,0.286,0.0,0.714,1,0,0
+345,"“You’re very polite, but I belong to another generation,” he announced solemnly.",0.296,0.18,0.0,0.82,1,0,0
+346,“You sit here and discuss your sports and your young ladies and your—” He supplied an imaginary noun with another wave of his hand.,0.4939,0.122,0.0,0.878,1,0,0
+347,"“He becomes very sentimental sometimes,” explained Gatsby.",0.3804,0.302,0.0,0.698,1,0,0
+348,“This is one of his sentimental days.,0.3182,0.277,0.0,0.723,1,0,0
+349,It never occurred to me that one man could start to play with the faith of fifty million people—with the single-mindedness of a burglar blowing a safe.,0.7964,0.269,0.0,0.731,1,0,0
+350,He’s a smart man.” I insisted on paying the check.,0.4019,0.278,0.0,0.722,1,0,0
+351,“Where’ve you been?” he demanded eagerly.,0.1779,0.306,0.224,0.471,1,0,0
+352,"One October day in nineteen-seventeen— (said Jordan Baker that afternoon, sitting up very straight on a straight chair in the tea-garden at the Plaza Hotel) —I was walking along from one place to another, half on the sidewalks and half on the lawns.",0.5245,0.099,0.0,0.901,1,0,0
+353,I was happier on the lawns because I had on shoes from England with rubber knobs on the soles that bit into the soft ground.,0.5267,0.134,0.0,0.866,1,0,0
+354,"She was just eighteen, two years older than me, and by far the most popular of all the young girls in Louisville.",0.4754,0.128,0.0,0.872,1,0,0
+355,"She dressed in white, and had a little white roadster, and all day long the telephone rang in her house and excited young officers from Camp Taylor demanded the privilege of monopolizing her that night.",0.3612,0.128,0.089,0.783,1,0,0
+356,They were so engrossed in each other that she didn’t see me until I was five feet away.,0.2769,0.117,0.0,0.883,1,0,0
+357,"“Please come here.” I was flattered that she wanted to speak to me, because of all the older girls I admired her most.",0.7096,0.237,0.0,0.763,1,0,0
+358,"Well, then, would I tell them that she couldn’t come that day?",0.2732,0.174,0.0,0.826,1,0,0
+359,"The officer looked at Daisy while she was speaking, in a way that every young girl wants to be looked at sometime, and because it seemed romantic to me I have remembered the incident ever since.",0.4019,0.076,0.0,0.924,1,0,0
+360,"By the next year I had a few beaux myself, and I began to play in tournaments, so I didn’t see Daisy very often.",0.34,0.112,0.0,0.888,1,0,0
+361,"After that she didn’t play around with the soldiers any more, but only with a few flat-footed, shortsighted young men in town, who couldn’t get into the army at all.",0.1779,0.057,0.0,0.943,1,0,0
+362,"She had a début after the armistice, and in February she was presumably engaged to a man from New Orleans.",0.4019,0.137,0.0,0.863,1,0,0
+363,"He came down with a hundred people in four private cars, and hired a whole floor of the Muhlbach Hotel, and the day before the wedding he gave her a string of pearls valued at three hundred and fifty thousand dollars.",0.4404,0.073,0.0,0.927,1,0,0
+364,She had a bottle of Sauterne in one hand and a letter in the other.,0.4939,0.211,0.0,0.789,1,0,0
+365,"She took it into the tub with her and squeezed it up in a wet ball, and only let me leave it in the soap-dish when she saw that it was coming to pieces like snow.",0.3182,0.068,0.033,0.899,1,0,0
+366,"She used to sit on the sand with his head in her lap by the hour, rubbing her fingers over his eyes and looking at him with unfathomable delight.",0.5994,0.122,0.0,0.878,1,0,0
+367,"It was touching to see them together—it made you laugh in a hushed, fascinated way.",0.7717,0.358,0.0,0.642,1,0,0
+368,"Daisy was popular in Chicago, as you know.",0.4215,0.286,0.0,0.714,1,0,0
+369,"They moved with a fast crowd, all of them young and rich and wild, but she came out with an absolutely perfect reputation.",0.8312,0.28,0.0,0.72,1,0,0
+370,It’s a great advantage not to drink among hard-drinking people.,0.7269,0.466,0.0,0.534,1,0,0
+371,"Perhaps Daisy never went in for amour at all—and yet there’s something in that voice of hers … Well, about six weeks ago, she heard the name Gatsby for the first time in years.",0.2732,0.062,0.0,0.938,1,0,0
+372,"The sun had gone down behind the tall apartments of the movie stars in the West Fifties, and the clear voices of children, already gathered like crickets on the grass, rose through the hot twilight:  “I’m the Sheik of Araby.",0.6249,0.118,0.0,0.882,1,0,0
+373,Your love belongs to me.,0.6369,0.512,0.0,0.488,1,0,0
+374,"He came alive to me, delivered suddenly from the womb of his purposeless splendour.",0.7003,0.326,0.0,0.674,1,0,0
+375,He had waited five years and bought a mansion where he dispensed starlight to casual moths—so that he could “come over” some afternoon to a stranger’s garden.,0.2023,0.07,0.0,0.93,1,0,0
+376,"“And your house is right next door.” “Oh!” “I think he half expected her to wander into one of his parties, some night,” went on Jordan, “but she never did.",0.4574,0.094,0.0,0.906,1,0,0
+377,"Then he began asking people casually if they knew her, and I was the first one he found.",0.1779,0.096,0.0,0.904,1,0,0
+378,"‘I want to see her right next door.’ “When I said you were a particular friend of Tom’s, he started to abandon the whole idea.",0.1531,0.164,0.106,0.73,1,0,0
+379,"He doesn’t know very much about Tom, though he says he’s read a Chicago paper for years just on the chance of catching a glimpse of Daisy’s name.” It was dark now, and as we dipped under a little bridge I put my arm around Jordan’s golden shoulder and drew her toward me and asked her to dinner.",0.25,0.036,0.0,0.964,1,0,0
+380,"A phrase began to beat in my ears with a sort of heady excitement: “There are only the pursued, the pursuing, the busy, and the tired.” “And Daisy ought to have something in her life,” murmured Jordan to me.",0.4417,0.075,0.0,0.925,1,0,0
+381,“Does she want to see Gatsby?” “She’s not to know about it.,0.0772,0.106,0.0,0.894,1,0,0
+382,Gatsby doesn’t want her to know.,0.0772,0.206,0.0,0.794,1,0,0
+383,"Her wan, scornful mouth smiled, and so I drew her up again closer, this time to my face.",0.1779,0.164,0.131,0.704,1,0,0
+384,"At first I thought it was another party, a wild rout that had resolved itself into “hide-and-go-seek” or “sardines-in-the-box” with all the house thrown open to the game.",0.5267,0.155,0.0,0.845,1,0,0
+385,"“Your place looks like the World’s Fair,” I said.",0.3612,0.263,0.0,0.737,1,0,0
+386,"I haven’t made use of it all summer.” “I’ve got to go to bed.” “All right.” He waited, looking at me with suppressed eagerness.",0.4019,0.109,0.0,0.891,1,0,0
+387,“I don’t want to put you to any trouble.” “What day would suit you?” “What day would suit you?” he corrected me quickly.,0.168,0.07,0.0,0.93,1,0,0
+388,"“Why, I thought—why, look here, old sport, you don’t make much money, do you?” “Not very much.” This seemed to reassure him and he continued more confidently.",0.6997,0.194,0.0,0.806,1,0,0
+389,"“I thought you didn’t, if you’ll pardon my—you see, I carry on a little business on the side, a sort of side line, you understand.",0.3182,0.099,0.0,0.901,1,0,0
+390,"And I thought that if you don’t make very much—You’re selling bonds, aren’t you, old sport?” “Trying to.” “Well, this would interest you.",0.4588,0.125,0.0,0.875,1,0,0
+391,It wouldn’t take up much of your time and you might pick up a nice bit of money.,0.4215,0.149,0.0,0.851,1,0,0
+392,"He waited a moment longer, hoping I’d begin a conversation, but I was too absorbed to be responsive, so he went unwillingly home.",0.631,0.222,0.0,0.778,1,0,0
+393,The evening had made me lightheaded and happy; I think I walked into a deep sleep as I entered my front door.,0.5719,0.179,0.0,0.821,1,0,0
+394,“What?” “Don’t bring Tom.” “Who is ‘Tom’?” she asked innocently.,0.4137,0.235,0.0,0.765,1,0,0
+395,The day agreed upon was pouring rain.,0.2732,0.259,0.0,0.741,1,0,0
+396,"“The grass looks fine, if that’s what you mean.” “What grass?” he inquired blankly.",0.2023,0.122,0.0,0.878,1,0,0
+397,Together we scrutinized the twelve lemon cakes from the delicatessen shop.,0.1027,0.123,0.0,0.877,1,0,0
+398,"They’re fine!” and he added hollowly, “… old sport.” The rain cooled about half-past three to a damp mist, through which occasional thin drops swam like dew.",0.4199,0.1,0.0,0.9,1,0,0
+399,"Daisy’s face, tipped sideways beneath a three-cornered lavender hat, looked out at me with a bright ecstatic smile.",0.8271,0.401,0.0,0.599,1,0,0
+400,"“Is this absolutely where you live, my dearest one?” The exhilarating ripple of her voice was a wild tonic in the rain.",0.743,0.249,0.0,0.751,1,0,0
+401,"A damp streak of hair lay like a dash of blue paint across her cheek, and her hand was wet with glistening drops as I took it to help her from the car.",0.8126,0.237,0.0,0.763,1,0,0
+402,"“Are you in love with me,” she said low in my ear, “or why did I have to come alone?” “That’s the secret of Castle Rackrent.",0.4767,0.143,0.072,0.785,1,0,0
+403,To my overwhelming surprise the living-room was deserted.,0.2732,0.231,0.0,0.769,1,0,0
+404,“What’s funny?” She turned her head as there was a light dignified knocking at the front door.,0.4939,0.176,0.0,0.824,1,0,0
+405,It wasn’t a bit funny.,0.4404,0.492,0.0,0.508,1,0,0
+406,"Then from the living-room I heard a sort of choking murmur and part of a laugh, followed by Daisy’s voice on a clear artificial note: “I certainly am awfully glad to see you again.” A pause; it endured horribly.",0.6369,0.255,0.144,0.601,1,0,0
+407,"Gatsby, his hands still in his pockets, was reclining against the mantelpiece in a strained counterfeit of perfect ease, even of boredom.",0.296,0.22,0.177,0.603,1,0,0
+408,"His head leaned back so far that it rested against the face of a defunct mantelpiece clock, and from this position his distraught eyes stared down at Daisy, who was sitting, frightened but graceful, on the edge of a stiff chair.",0.1901,0.09,0.096,0.814,1,0,0
+409,"His eyes glanced momentarily at me, and his lips parted with an abortive attempt at a laugh.",0.5574,0.194,0.0,0.806,1,0,0
+410,"Then he sat down, rigidly, his elbow on the arm of the sofa and his chin in his hand.",0.3612,0.146,0.078,0.776,1,0,0
+411,I had them both on their feet with the desperate suggestion that they help me make tea in the kitchen when the demoniac Finn brought it in on a tray.,0.1027,0.087,0.074,0.839,1,0,0
+412,Amid the welcome confusion of cups and cakes a certain physical decency established itself.,0.4404,0.295,0.127,0.578,1,0,0
+413,"However, as calmness wasn’t an end in itself, I made an excuse at the first possible moment, and got to my feet.",0.4588,0.174,0.0,0.826,1,0,0
+414,"Daisy’s sitting in there all alone.” He raised his hand to stop my words, looked at me with unforgettable reproach, and, opening the door cautiously, went back into the other room.",0.25,0.093,0.064,0.843,1,0,0
+415,"I walked out the back way—just as Gatsby had when he had made his nervous circuit of the house half an hour before—and ran for a huge black knotted tree, whose massed leaves made a fabric against the rain.",0.0516,0.06,0.055,0.885,1,0,0
+416,"There was nothing to look at from under the tree except Gatsby’s enormous house, so I stared at it, like Kant at his church steeple, for half an hour.",0.3612,0.085,0.0,0.915,1,0,0
+417,"Americans, while willing, even eager, to be serfs, have always been obstinate about being peasantry.",0.0772,0.141,0.124,0.734,1,0,0
+418,"After half an hour, the sun shone again, and the grocer’s automobile rounded Gatsby’s drive with the raw material for his servants’ dinner—I felt sure he wouldn’t eat a spoonful.",0.3182,0.076,0.0,0.924,1,0,0
+419,"While the rain continued it had seemed like the murmur of their voices, rising and swelling a little now and then with gusts of emotion.",0.3612,0.098,0.0,0.902,1,0,0
+420,"“It’s stopped raining.” “Has it?” When he realized what I was talking about, that there were twinkle-bells of sunshine in the room, he smiled like a weather man, like an ecstatic patron of recurrent light, and repeated the news to Daisy.",0.9201,0.301,0.038,0.661,1,0,0
+421,"It’s stopped raining.” “I’m glad, Jay.” Her throat, full of aching, grieving beauty, told only of her unexpected joy.",0.4939,0.331,0.262,0.406,1,0,0
+422,"“I want you and Daisy to come over to my house,” he said, “I’d like to show her around.” “You’re sure you want me to come?” “Absolutely, old sport.” Daisy went upstairs to wash her face—too late I thought with humiliation of my towels—while Gatsby and I waited on the lawn.",0.1779,0.134,0.067,0.799,1,0,0
+423,"“My house looks well, doesn’t it?” he demanded.",0.0516,0.21,0.19,0.6,1,0,0
+424,“See how the whole front of it catches the light.” I agreed that it was splendid.,0.7096,0.312,0.0,0.688,1,0,0
+425,"“Do you like it?” “I love it, but I don’t see how you live there all alone.” “I keep it always full of interesting people, night and day.",0.7845,0.248,0.0,0.752,1,0,0
+426,People who do interesting things.,0.4019,0.403,0.0,0.597,1,0,0
+427,Celebrated people.” Instead of taking the shortcut along the Sound we went down to the road and entered by the big postern.,0.5719,0.15,0.0,0.85,1,0,0
+428,"With enchanting murmurs Daisy admired this aspect or that of the feudal silhouette against the sky, admired the gardens, the sparkling odour of jonquils and the frothy odour of hawthorn and plum blossoms and the pale gold odour of kiss-me-at-the-gate.",0.7906,0.189,0.039,0.773,1,0,0
+429,As Gatsby closed the door of “the Merton College Library” I could have sworn I heard the owl-eyed man break into ghostly laughter.,0.4939,0.138,0.0,0.862,1,0,0
+430,"Sometimes too, he stared around at his possessions in a dazed way, as though in her actual and astounding presence none of it was any longer real.",0.2732,0.098,0.06,0.842,1,0,0
+431,"Daisy took the brush with delight, and smoothed her hair, whereupon Gatsby sat down and shaded his eyes and began to laugh.",0.8176,0.273,0.0,0.727,1,0,0
+432,"“It’s the funniest thing, old sport,” he said hilariously.",0.5574,0.31,0.0,0.69,1,0,0
+433,After his embarrassment and his unreasoning joy he was consumed with wonder at her presence.,0.2263,0.193,0.147,0.66,1,0,0
+434,"Now, in the reaction, he was running down like an over-wound clock.",0.3612,0.185,0.0,0.815,1,0,0
+435,"Recovering himself in a minute he opened for us two hulking patent cabinets which held his massed suits and dressing-gowns and ties, and his shirts, piled like bricks in stacks a dozen high.",0.3612,0.077,0.0,0.923,1,0,0
+436,"While we admired he brought more and the soft rich heap mounted higher—shirts with stripes and scrolls and plaids in coral and apple-green and lavender and faint orange, with monograms of indian blue.",0.7845,0.182,0.0,0.818,1,0,0
+437,"“They’re such beautiful shirts,” she sobbed, her voice muffled in the thick folds.",0.25,0.219,0.163,0.618,1,0,0
+438,Possibly it had occurred to him that the colossal significance of that light had now vanished forever.,0.2732,0.116,0.0,0.884,1,0,0
+439,"Compared to the great distance that had separated him from Daisy it had seemed very near to her, almost touching her.",0.6249,0.17,0.0,0.83,1,0,0
+440,His count of enchanted objects had diminished by one.,0.3818,0.245,0.0,0.755,1,0,0
+441,"A large photograph of an elderly man in yachting costume attracted me, hung on the wall over his desk.",0.4215,0.141,0.0,0.859,1,0,0
+442,"He used to be my best friend years ago.” There was a small picture of Gatsby, also in yachting costume, on the bureau—Gatsby with his head thrown back defiantly—taken apparently when he was about eighteen.",0.8126,0.188,0.0,0.812,1,0,0
+443,"“I adore it,” exclaimed Daisy.",0.5574,0.474,0.0,0.526,1,0,0
+444,"“Yes … Well, I can’t talk now … I can’t talk now, old sport … I said a small town … He must know what a small town is … Well, he’s no use to us if Detroit is his idea of a small town …” He rang off.",0.25,0.101,0.053,0.845,1,0,0
+445,"“Look at that,” she whispered, and then after a moment: “I’d like to just get one of those pink clouds and put you in it and push you around.” I tried to go then, but they wouldn’t hear of it; perhaps my presence made them feel more satisfactorily alone.",0.3963,0.106,0.056,0.838,1,0,0
+446,"Then I got up …” “Klipspringer plays the piano,” said Gatsby, cutting him off.",0.128,0.138,0.103,0.759,1,0,0
+447,"“Don’t you, Ewing, old sport?” “I don’t play well.",0.5423,0.391,0.0,0.609,1,0,0
+448,I don’t—hardly play at all.,0.34,0.444,0.0,0.556,1,0,0
+449,I told you I couldn’t play.,0.34,0.444,0.0,0.556,1,0,0
+450,"It was the hour of a profound human change, and excitement was generating on the air.",0.4939,0.186,0.0,0.814,1,0,0
+451,“One thing’s sure and nothing’s surer The rich get richer and the  poor get—children.,0.8126,0.487,0.131,0.381,1,0,0
+452,"In the meantime, In between time—” As I went over to say goodbye I saw that the expression of bewilderment had come back into Gatsby’s face, as though a faint doubt had occurred to him as to the quality of his present happiness.",0.2732,0.082,0.057,0.862,1,0,0
+453,"There must have been moments even that afternoon when Daisy tumbled short of his dreams—not through her own fault, but because of the colossal vitality of his illusion.",0.2732,0.096,0.06,0.844,1,0,0
+454,"He had thrown himself into it with a creative passion, adding to it all the time, decking it out with every bright feather that drifted his way.",0.8316,0.277,0.0,0.723,1,0,0
+455,"His hand took hold of hers, and as she said something low in his ear he turned toward her with a rush of emotion.",0.2732,0.122,0.08,0.798,1,0,0
+456,"I think that voice held him most, with its fluctuating, feverish warmth, because it couldn’t be over-dreamed—that voice was a deathless song.",0.4588,0.136,0.0,0.864,1,0,0
+457,"They had forgotten me, but Daisy glanced up and held out her hand; Gatsby didn’t know me now at all.",0.5927,0.181,0.061,0.758,1,0,0
+458,"I looked once more at them and they looked back at me, remotely, possessed by intense life.",0.0772,0.08,0.0,0.92,1,0,0
+459,About this time an ambitious young reporter from New York arrived one morning at Gatsby’s door and asked him if he had anything to say.,0.4767,0.114,0.0,0.886,1,0,0
+460,"Gatsby’s notoriety, spread about by the hundreds who had accepted his hospitality and so become authorities upon his past, had increased all summer until he fell just short of being news.",0.4939,0.127,0.0,0.873,1,0,0
+461,"Contemporary legends such as the “underground pipeline to Canada” attached themselves to him, and there was one persistent story that he didn’t live in a house at all, but in a boat that looked like a house and was moved secretly up and down the Long Island shore.",0.5023,0.069,0.0,0.931,1,0,0
+462,"Just why these inventions were a source of satisfaction to James Gatz of North Dakota, isn’t easy to say.",0.7003,0.266,0.0,0.734,1,0,0
+463,"James Gatz—that was really, or at least legally, his name.",0.1027,0.135,0.0,0.865,1,0,0
+464,He had changed it at the age of seventeen and at the specific moment that witnessed the beginning of his career—when he saw Dan Cody’s yacht drop anchor over the most insidious flat on Lake Superior.,0.34,0.088,0.053,0.859,1,0,0
+465,"I suppose he’d had the name ready for a long time, even then.",0.3612,0.2,0.0,0.8,1,0,0
+466,"The truth was that Jay Gatsby of West Egg, Long Island, sprang from his Platonic conception of himself.",0.3182,0.119,0.0,0.881,1,0,0
+467,"He was a son of God—a phrase which, if it means anything, means just that—and he must be about His Father’s business, the service of a vast, vulgar, and meretricious beauty.",0.5859,0.119,0.0,0.881,1,0,0
+468,"So he invented just the sort of Jay Gatsby that a seventeen-year-old boy would be likely to invent, and to this conception he was faithful to the end.",0.4404,0.1,0.0,0.9,1,0,0
+469,For over a year he had been beating his way along the south shore of Lake Superior as a clam-digger and a salmon-fisher or in any other capacity that brought him food and bed.,0.128,0.099,0.085,0.817,1,0,0
+470,The most grotesque and fantastic conceits haunted him in his bed at night.,0.1935,0.215,0.173,0.612,1,0,0
+471,Each night he added to the pattern of his fancies until drowsiness closed down upon some vivid scene with an oblivious embrace.,0.3182,0.099,0.0,0.901,1,0,0
+472,"For a while these reveries provided an outlet for his imagination; they were a satisfactory hint of the unreality of reality, a promise that the rock of the world was founded securely on a fairy’s wing.",0.7351,0.199,0.0,0.801,1,0,0
+473,"An instinct toward his future glory had led him, some months before, to the small Lutheran College of St. Olaf’s in southern Minnesota.",0.5423,0.137,0.0,0.863,1,0,0
+474,"Then he drifted back to Lake Superior, and he was still searching for something to do on the day that Dan Cody’s yacht dropped anchor in the shallows alongshore.",0.5423,0.111,0.0,0.889,1,0,0
+475,"To young Gatz, resting on his oars and looking up at the railed deck, that yacht represented all the beauty and glamour in the world.",0.802,0.238,0.0,0.762,1,0,0
+476,I suppose he smiled at Cody—he had probably discovered that people liked him when he smiled.,0.8689,0.45,0.0,0.55,1,0,0
+477,At any rate Cody asked him a few questions (one of them elicited the brand new name) and found that he was quick and extravagantly ambitious.,0.4767,0.114,0.0,0.886,1,0,0
+478,"He was employed in a vague personal capacity—while he remained with Cody he was in turn steward, mate, skipper, secretary, and even jailor, for Dan Cody sober knew what lavish doings Dan Cody drunk might soon be about, and he provided for such contingencies by reposing more and more trust in Gatsby.",0.2632,0.069,0.068,0.862,1,0,0
+479,Sometimes in the course of gay parties women used to rub champagne into his hair; for himself he formed the habit of letting liquor alone.,0.4404,0.17,0.069,0.761,1,0,0
+480,"He never understood the legal device that was used against him, but what remained of the millions went intact to Ella Kaye.",0.2535,0.094,0.051,0.855,1,0,0
+481,"He told me all this very much later, but I’ve put it down here with the idea of exploding those first wild rumours about his antecedents, which weren’t even faintly true.",0.5719,0.11,0.0,0.89,1,0,0
+482,"So I take advantage of this short halt, while Gatsby, so to speak, caught his breath, to clear this set of misconceptions away.",0.5965,0.196,0.0,0.804,1,0,0
+483,"I was startled, naturally, but the really surprising thing was that it hadn’t happened before.",0.4097,0.188,0.082,0.73,1,0,0
+484,"They were a party of three on horseback—Tom and a man named Sloane and a pretty woman in a brown riding-habit, who had been there previously.",0.7096,0.228,0.0,0.772,1,0,0
+485,"“I’m delighted to see you,” said Gatsby, standing on his porch.",0.5106,0.248,0.0,0.752,1,0,0
+486,“I’m delighted that you dropped in.” As though they cared!,0.75,0.444,0.0,0.556,1,0,0
+487,"No, thanks.",0.1779,0.569,0.431,0.0,1,0,0
+488,A little champagne?,0.228,0.656,0.0,0.344,1,0,0
+489,"Nothing at all, thanks … I’m sorry— “Did you have a nice ride?” “Very good roads around here.” “I suppose the automobiles—” “Yeah.” Moved by an irresistible impulse, Gatsby turned to Tom, who had accepted the introduction as a stranger.",0.7779,0.229,0.054,0.717,1,0,0
+490,"“We’ll all come over to your next party, Mr. Gatsby,” she suggested.",0.4019,0.197,0.0,0.803,1,0,0
+491,"“What do you say?” “Certainly; I’d be delighted to have you.” “Be ver’ nice,” said Mr. Sloane, without gratitude.",0.1526,0.143,0.117,0.739,1,0,0
+492,"I wouldn’t be surprised if some other people dropped in from New York.” “You come to supper with me,” said the lady enthusiastically.",0.6705,0.216,0.0,0.784,1,0,0
+493,“I’d love to have you.,0.6369,0.512,0.0,0.488,1,0,0
+494,He wanted to go and he didn’t see that Mr. Sloane had determined he shouldn’t.,0.34,0.146,0.0,0.854,1,0,0
+495,"Excuse me for just a minute.” The rest of us walked out on the porch, where Sloane and the lady began an impassioned conversation aside.",0.0772,0.053,0.0,0.947,1,0,0
+496,"“My God, I believe the man’s coming,” said Tom.",0.2732,0.231,0.0,0.769,1,0,0
+497,“Doesn’t he know she doesn’t want him?” “She says she does want him.” “She has a big dinner party and he won’t know a soul there.” He frowned.,0.5106,0.187,0.0,0.813,1,0,0
+498,"By God, I may be old-fashioned in my ideas, but women run around too much these days to suit me.",0.1406,0.079,0.0,0.921,1,0,0
+499,"We’ve got to go.”  And then to me: “Tell him we couldn’t wait, will you?” Tom and I shook hands, the rest of us exchanged a cool nod, and they trotted quickly down the drive, disappearing under the August foliage just as Gatsby, with hat and light overcoat in hand, came out the front door.",0.6249,0.097,0.025,0.879,1,0,0
+500,Perhaps his presence gave the evening its peculiar quality of oppressiveness—it stands out in my memory from Gatsby’s other parties that summer.,0.5106,0.177,0.0,0.823,1,0,0
+501,"There were the same people, or at least the same sort of people, the same profusion of champagne, the same many-coloured, many-keyed commotion, but I felt an unpleasantness in the air, a pervading harshness that hadn’t been there before.",0.1531,0.043,0.0,0.957,1,0,0
+502,"Or perhaps I had merely grown used to it, grown to accept West Egg as a world complete in itself, with its own standards and its own great figures, second to nothing because it had no consciousness of being so, and now I was looking at it again, through Daisy’s eyes.",0.6705,0.124,0.041,0.835,1,0,0
+503,"They arrived at twilight, and, as we strolled out among the sparkling hundreds, Daisy’s voice was playing murmurous tricks in her throat.",0.3612,0.163,0.061,0.776,1,0,0
+504,"“These things excite me so,” she whispered.",0.4767,0.341,0.0,0.659,1,0,0
+505,"“If you want to kiss me any time during the evening, Nick, just let me know and I’ll be glad to arrange it for you.",0.7269,0.244,0.0,0.756,1,0,0
+506,"I’m giving out green—” “Look around,” suggested Gatsby.",0.34,0.255,0.0,0.745,1,0,0
+507,"“We don’t go around very much,” he said; “in fact, I was just thinking I don’t know a soul here.” “Perhaps you know that lady.” Gatsby indicated a gorgeous, scarcely human orchid of a woman who sat in state under a white-plum tree.",0.6124,0.1,0.0,0.9,1,0,0
+508,"Buchanan … and Mr. Buchanan—” After an instant’s hesitation he added: “the polo player.” “Oh no,” objected Tom quickly, “not me.” But evidently the sound of it pleased Gatsby for Tom remained “the polo player” for the rest of the evening.",0.2023,0.067,0.049,0.884,1,0,0
+509,"“I liked that man—what was his name?—with the sort of blue nose.” Gatsby identified him, adding that he was a small producer.",0.4215,0.123,0.0,0.877,1,0,0
+510,"“Well, I liked him anyhow.” “I’d a little rather not be the polo player,” said Tom pleasantly, “I’d rather look at all these famous people in—in oblivion.” Daisy and Gatsby danced.",0.7096,0.179,0.0,0.821,1,0,0
+511,"I remember being surprised by his graceful, conservative foxtrot—I had never seen him dance before.",0.5994,0.29,0.0,0.71,1,0,0
+512,"“A fellow’s getting off some funny stuff.” “Go ahead,” answered Daisy genially, “and if you want to take down any addresses here’s my little gold pencil.” … She looked around after a moment and told me the girl was “common but pretty,” and I knew that except for the half-hour she’d been alone with Gatsby she wasn’t having a good time.",0.5346,0.111,0.04,0.849,1,0,0
+513,"That was my fault—Gatsby had been called to the phone, and I’d enjoyed these same people only two weeks before.",0.5106,0.148,0.0,0.852,1,0,0
+514,But what had amused me then turned septic on the air now.,0.4215,0.203,0.0,0.797,1,0,0
+515,“Your hand shakes.,0.4939,0.615,0.0,0.385,1,0,0
+516,I wouldn’t let you operate on me!” It was like that.,0.4199,0.237,0.0,0.763,1,0,0
+517,"It occurred to me that he had been very slowly bending toward her all evening to attain this proximity, and even while I watched I saw him stoop one ultimate degree and kiss at her cheek.",0.4215,0.078,0.0,0.922,1,0,0
+518,"“I like her,” said Daisy, “I think she’s lovely.” But the rest offended her—and inarguably because it wasn’t a gesture but an emotion.",0.0644,0.075,0.065,0.86,1,0,0
+519,It was dark here in front; only the bright door sent ten square feet of light volleying out into the soft black morning.,0.4404,0.116,0.0,0.884,1,0,0
+520,"A lot of these newly rich people are just big bootleggers, you know.” “Not Gatsby,” I said shortly.",0.5574,0.194,0.0,0.806,1,0,0
+521,"“At least they are more interesting than the people we know,” she said with an effort.",0.4576,0.166,0.0,0.834,1,0,0
+522,"“You didn’t look so interested.” “Well, I was.” Tom laughed and turned to me.",0.4588,0.2,0.0,0.8,1,0,0
+523,"When the melody rose her voice broke up sweetly, following it, in a way contralto voices have, and each change tipped out a little of her warm human magic upon the air.",0.235,0.137,0.081,0.782,1,0,0
+524,"They simply force their way in and he’s too polite to object.” “I’d like to know who he is and what he does,” insisted Tom.",0.3612,0.094,0.0,0.906,1,0,0
+525,"Her glance left me and sought the lighted top of the steps, where “Three O’Clock in the Morning,” a neat, sad little waltz of that year, was drifting out the open door.",0.1779,0.134,0.086,0.78,1,0,0
+526,"After all, in the very casualness of Gatsby’s party there were romantic possibilities totally absent from her world.",0.6597,0.252,0.0,0.748,1,0,0
+527,"Perhaps some unbelievable guest would arrive, a person infinitely rare and to be marvelled at, some authentically radiant young girl who with one fresh glance at Gatsby, one moment of magical encounter, would blot out those five years of unwavering devotion.",0.8481,0.221,0.0,0.779,1,0,0
+528,"Gatsby asked me to wait until he was free, and I lingered in the garden until the inevitable swimming party had run up, chilled and exalted, from the black beach, until the lights were extinguished in the guestrooms overhead.",0.7184,0.143,0.0,0.857,1,0,0
+529,"“She didn’t like it,” he said immediately.",0.3612,0.294,0.0,0.706,1,0,0
+530,"“Of course she did.” “She didn’t like it,” he insisted.",0.3612,0.217,0.0,0.783,1,0,0
+531,"One of them was that, after she was free, they were to go back to Louisville and be married from her house—just as if it were five years ago.",0.5106,0.105,0.0,0.895,1,0,0
+532,"“Why of course you can!” He looked around him wildly, as if the past were lurking here in the shadow of his house, just out of reach of his hand.",0.4753,0.139,0.045,0.816,1,0,0
+533,"“She’ll see.” He talked a lot about the past, and I gathered that he wanted to recover something, some idea of himself perhaps, that had gone into loving Daisy.",0.5994,0.13,0.0,0.87,1,0,0
+534,Now it was a cool night with that mysterious excitement in it which comes at the two changes of the year.,0.6705,0.234,0.0,0.766,1,0,0
+535,"He knew that when he kissed this girl, and forever wed his unutterable visions to her perishable breath, his mind would never romp again like the mind of God.",0.5408,0.196,0.063,0.742,1,0,0
+536,Then he kissed her.,0.3818,0.464,0.0,0.536,1,0,0
+537,At his lips’ touch she blossomed for him like a flower and the incarnation was complete.,0.3612,0.152,0.0,0.848,1,0,0
+538,"The grocery boy reported that the kitchen looked like a pigsty, and the general opinion in the village was that the new people weren’t servants at all.",0.3612,0.091,0.0,0.909,1,0,0
+539,Half an hour later Daisy herself telephoned and seemed relieved to find that I was coming.,0.3818,0.157,0.0,0.843,1,0,0
+540,"The next day was broiling, almost the last, certainly the warmest, of the summer.",0.5908,0.287,0.0,0.713,1,0,0
+541,Is it … ?” My commutation ticket came back to me with a dark stain from his hand.,0.4939,0.176,0.0,0.824,1,0,0
+542,"That anyone should care in this heat whose flushed lips he kissed, whose head made damp the pyjama pocket over his heart!",0.7263,0.233,0.0,0.767,1,0,0
+543,"“I’m sorry, madame, but we can’t furnish it—it’s far too hot to touch this noon!” What he really said was: “Yes … Yes … I’ll see.” He set down the receiver and came toward us, glistening slightly, to take our stiff straw hats.",0.5707,0.087,0.026,0.887,1,0,0
+544,"The room, shadowed well with awnings, was dark and cool.",0.5267,0.355,0.0,0.645,1,0,0
+545,"Daisy and Jordan lay upon an enormous couch, like silver idols weighing down their own white dresses against the singing breeze of the fans.",0.3612,0.098,0.0,0.902,1,0,0
+546,Gatsby stood in the centre of the crimson carpet and gazed around with fascinated eyes.,0.4767,0.181,0.0,0.819,1,0,0
+547,"Daisy watched him and laughed, her sweet, exciting laugh; a tiny gust of powder rose from her bosom into the air.",0.9153,0.444,0.0,0.556,1,0,0
+548,"“No, he’s not,” I assured her.",0.3612,0.385,0.0,0.615,1,0,0
+549,"Gatsby!” He put out his broad, flat hand with well-concealed dislike.",0.2244,0.231,0.172,0.596,1,0,0
+550,"“I’m glad to see you, sir … Nick …” “Make us a cold drink,” cried Daisy.",0.1027,0.17,0.148,0.682,1,0,0
+551,"As he left the room again she got up and went over to Gatsby and pulled his face down, kissing him on the mouth.",0.5719,0.139,0.0,0.861,1,0,0
+552,"“You know I love you,” she murmured.",0.6369,0.457,0.0,0.543,1,0,0
+553,"“Come to your own mother that loves you.” The child, relinquished by the nurse, rushed across the room and rooted shyly into her mother’s dress.",0.4588,0.13,0.06,0.81,1,0,0
+554,"Stand up now, and say—How-de-do.” Gatsby and I in turn leaned down and took the small reluctant hand.",0.296,0.158,0.099,0.743,1,0,0
+555,Afterward he kept looking at the child with surprise.,0.2732,0.208,0.0,0.792,1,0,0
+556,"“I got dressed before luncheon,” said the child, turning eagerly to Daisy.",0.3818,0.191,0.0,0.809,1,0,0
+557,"“You dream, you.",0.25,0.5,0.0,0.5,1,0,0
+558,"You absolute little dream.” “Yes,” admitted the child calmly.",0.3477,0.329,0.0,0.671,1,0,0
+559,“Aunt Jordan’s got on a white dress too.” “How do you like mother’s friends?” Daisy turned her around so that she faced Gatsby.,0.3612,0.106,0.0,0.894,1,0,0
+560,"“Do you think they’re pretty?” “Where’s Daddy?” “She doesn’t look like her father,” explained Daisy.",0.4329,0.17,0.0,0.83,1,0,0
+561,“She looks like me.,0.3612,0.455,0.0,0.545,1,0,0
+562,The nurse took a step forward and held out her hand.,0.4939,0.262,0.0,0.738,1,0,0
+563,"“Come, Pammy.” “Goodbye, sweetheart!” With a reluctant backward glance the well-disciplined child held to her nurse’s hand and was pulled out the door, just as Tom came back, preceding four gin rickeys that clicked full of ice.",0.3595,0.088,0.051,0.861,1,0,0
+564,“It seems that pretty soon the earth’s going to fall into the sun—or wait a minute—it’s just the opposite—the sun’s getting colder every year.,0.4939,0.127,0.0,0.873,1,0,0
+565,"“Come outside,” he suggested to Gatsby, “I’d like you to have a look at the place.” I went with them out to the veranda.",0.3612,0.106,0.0,0.894,1,0,0
+566,Gatsby’s eyes followed it momentarily; he raised his hand and pointed across the bay.,0.4939,0.198,0.0,0.802,1,0,0
+567,Slowly the white wings of the boat moved against the blue cool limit of the sky.,0.3182,0.133,0.0,0.867,1,0,0
+568,Ahead lay the scalloped ocean and the abounding blessed isles.,0.5994,0.302,0.0,0.698,1,0,0
+569,"“I’d like to be out there with him for about an hour.” We had luncheon in the dining-room, darkened too against the heat, and drank down nervous gaiety with the cold ale.",0.1027,0.072,0.061,0.867,1,0,0
+570,"“I’ve heard of making a garage out of a stable,” Tom was saying to Gatsby, “but I’m the first man who ever made a stable out of a garage.” “Who wants to go to town?” demanded Daisy insistently.",0.0772,0.061,0.053,0.886,1,0,0
+571,"She had told him that she loved him, and Tom Buchanan saw.",0.5994,0.262,0.0,0.738,1,0,0
+572,He was astounded.,0.4215,0.583,0.0,0.417,1,0,0
+573,"“You resemble the advertisement of the man,” she went on innocently.",0.34,0.194,0.0,0.806,1,0,0
+574,"“You know the advertisement of the man—” “All right,” broke in Tom quickly, “I’m perfectly willing to go to town.",0.34,0.168,0.112,0.72,1,0,0
+575,"“Come on, Jordan.” They went upstairs to get ready while we three men stood there shuffling the hot pebbles with our feet.",0.3612,0.106,0.0,0.894,1,0,0
+576,"It was full of money—that was the inexhaustible charm that rose and fell in it, the jingle of it, the cymbals’ song of it … High in a white palace the king’s daughter, the golden girl … Tom came out of the house wrapping a quart bottle in a towel, followed by Daisy and Jordan wearing small tight hats of metallic cloth and carrying light capes over their arms.",0.4019,0.041,0.0,0.959,1,0,0
+577,"Daisy looked at Tom frowning, and an indefinable expression, at once definitely unfamiliar and vaguely recognizable, as if I had only heard it described in words, passed over Gatsby’s face.",0.0772,0.084,0.075,0.841,1,0,0
+578,"“Come on, Daisy” said Tom, pressing her with his hand toward Gatsby’s car.",0.4939,0.211,0.0,0.789,1,0,0
+579,"We’ll follow you in the coupé.” She walked close to Gatsby, touching his coat with her hand.",0.4939,0.167,0.0,0.833,1,0,0
+580,"“See what?” He looked at me keenly, realizing that Jordan and I must have known all along.",0.25,0.118,0.0,0.882,1,0,0
+581,“I could have gone deeper if I’d known—” “Do you mean you’ve been to a medium?” inquired Jordan humorously.,0.5106,0.163,0.0,0.837,1,0,0
+582,"“What?” Confused, he stared at us as we laughed.",0.1779,0.244,0.187,0.569,1,0,0
+583,"I said I’d been making a small investigation of his past.” “And you found he was an Oxford man,” said Jordan helpfully.",0.5106,0.148,0.0,0.852,1,0,0
+584,"“What do you think we stopped for—to admire the view?” “I’m sick,” said Wilson without moving.",0.296,0.163,0.1,0.737,1,0,0
+585,"“You sounded well enough on the phone.” With an effort Wilson left the shade and support of the doorway and, breathing hard, unscrewed the cap of the tank.",0.5267,0.154,0.045,0.801,1,0,0
+586,"“But I need money pretty bad, and I was wondering what you were going to do with your old car.” “How do you like this one?” inquired Tom.",0.296,0.177,0.109,0.714,1,0,0
+587,"“Like to buy it?” “Big chance,” Wilson smiled faintly.",0.5423,0.304,0.0,0.696,1,0,0
+588,"“No, but I could make some money on the other.” “What do you want money for, all of a sudden?” “I’ve been here too long.",0.1154,0.062,0.0,0.938,1,0,0
+589,I want to get away.,0.0772,0.302,0.0,0.698,1,0,0
+590,I’m going to get her away.” The coupé flashed by us with a flurry of dust and the flash of a waving hand.,0.4939,0.138,0.0,0.862,1,0,0
+591,"“I just got wised up to something funny the last two days,” remarked Wilson.",0.6597,0.31,0.0,0.69,1,0,0
+592,“That’s why I want to get away.,0.0772,0.206,0.0,0.794,1,0,0
+593,"Over the ash-heaps the giant eyes of Doctor T. J. Eckleburg kept their vigil, but I perceived, after a moment, that other eyes were regarding us with peculiar intensity from less than twenty feet away.",0.2263,0.056,0.0,0.944,1,0,0
+594,"So engrossed was she that she had no consciousness of being observed, and one emotion after another crept into her face like objects into a slowly developing picture.",0.2944,0.144,0.072,0.784,1,0,0
+595,"His wife and his mistress, until an hour ago secure and inviolate, were slipping precipitately from his control.",0.34,0.124,0.0,0.876,1,0,0
+596,"Instinct made him step on the accelerator with the double purpose of overtaking Daisy and leaving Wilson behind, and we sped along toward Astoria at fifty miles an hour, until, among the spidery girders of the elevated, we came in sight of the easygoing blue coupé.",0.3182,0.049,0.0,0.951,1,0,0
+597,“I love New York on summer afternoons when everyone’s away.,0.6369,0.318,0.0,0.682,1,0,0
+598,And we all took the less explicable step of engaging the parlour of a suite in the Plaza Hotel.,0.34,0.124,0.0,0.876,1,0,0
+599,"The prolonged and tumultuous argument that ended by herding us into that room eludes me, though I have a sharp physical memory that, in the course of it, my underwear kept climbing like a damp snake around my legs and intermittent beads of sweat raced cool across my back.",0.3182,0.095,0.05,0.855,1,0,0
+600,"The notion originated with Daisy’s suggestion that we hire five bathrooms and take cold baths, and then assumed more tangible form as “a place to have a mint julep.” Each of us said over and over that it was a “crazy idea”—we all talked at once to a baffled clerk and thought, or pretended to think, that we were being very funny … The room was large and stifling, and, though it was already four o’clock, opening the windows admitted only a gust of hot shrubbery from the Park.",0.5563,0.053,0.0,0.947,1,0,0
+601,"“It’s a swell suite,” whispered Jordan respectfully, and everyone laughed.",0.6908,0.449,0.0,0.551,1,0,0
+602,"“Why not let her alone, old sport?” remarked Gatsby.",0.1877,0.179,0.0,0.821,1,0,0
+603,"The telephone book slipped from its nail and splashed to the floor, whereupon Jordan whispered, “Excuse me”—but this time no one laughed.",0.2023,0.119,0.087,0.794,1,0,0
+604,"“I’ve got it.” Gatsby examined the parted string, muttered “Hum!” in an interested way, and tossed the book on a chair.",0.4574,0.136,0.0,0.864,1,0,0
+605,"“That’s a great expression of yours, isn’t it?” said Tom sharply.",0.6249,0.313,0.0,0.687,1,0,0
+606,"He was a friend of Daisy’s.” “He was not,” she denied.",0.0772,0.227,0.206,0.567,1,0,0
+607,Asa Bird brought him around at the last minute and asked if we had room for him.” Jordan smiled.,0.5423,0.163,0.0,0.837,1,0,0
+608,"“By the way, Mr. Gatsby, I understand you’re an Oxford man.” “Not exactly.” “Oh, yes, I understand you went to Oxford.” “Yes—I went there.” A pause.",0.4019,0.109,0.0,0.891,1,0,0
+609,This tremendous detail was to be cleared up at last.,0.1027,0.135,0.0,0.865,1,0,0
+610,"“I heard you, but I’d like to know when.” “It was in nineteen-nineteen, I only stayed five months.",0.5023,0.169,0.0,0.831,1,0,0
+611,"“It was an opportunity they gave to some of the officers after the armistice,” he continued.",0.4215,0.157,0.0,0.843,1,0,0
+612,“We could go to any of the universities in England or France.” I wanted to get up and slap him on the back.,0.1531,0.071,0.0,0.929,1,0,0
+613,I had one of those renewals of complete faith in him that I’d experienced before.,0.4215,0.177,0.0,0.823,1,0,0
+614,"Daisy rose, smiling faintly, and went to the table.",0.4588,0.273,0.0,0.727,1,0,0
+615,Please have a little self-control.” “Self-control!” repeated Tom incredulously.,0.3802,0.27,0.0,0.73,1,0,0
+616,I don’t give big parties.,0.4019,0.474,0.0,0.526,1,0,0
+617,"I suppose you’ve got to make your house into a pigsty in order to have any friends—in the modern world.” Angry as I was, as we all were, I was tempted to laugh whenever he opened his mouth.",0.0772,0.093,0.085,0.823,1,0,0
+618,"Why don’t we all go home?” “That’s a good idea,” I got up.",0.4404,0.225,0.0,0.775,1,0,0
+619,"Nobody wants a drink.” “I want to know what Mr. Gatsby has to tell me.” “Your wife doesn’t love you,” said Gatsby.",0.6705,0.224,0.0,0.776,1,0,0
+620,She loves me.” “You must be crazy!” exclaimed Tom automatically.,0.6114,0.307,0.0,0.693,1,0,0
+621,"Gatsby sprang to his feet, vivid with excitement.",0.4939,0.314,0.0,0.686,1,0,0
+622,"I want to hear all about it.” “I told you what’s been going on,” said Gatsby.",0.0772,0.085,0.0,0.915,1,0,0
+623,"But both of us loved each other all that time, old sport, and you didn’t know.",0.5994,0.206,0.0,0.794,1,0,0
+624,I used to laugh sometimes”—but there was no laughter in his eyes—“to think that you didn’t know.” “Oh—that’s all.” Tom tapped his thick fingers together like a clergyman and leaned back in his chair.,0.7964,0.235,0.056,0.709,1,0,0
+625,"Daisy loved me when she married me and she loves me now.” “No,” said Gatsby, shaking his head.",0.7845,0.313,0.07,0.617,1,0,0
+626,"“And what’s more, I love Daisy too.",0.6697,0.473,0.0,0.527,1,0,0
+627,"Once in a while I go off on a spree and make a fool of myself, but I always come back, and in my heart I love her all the time.” “You’re revolting,” said Daisy.",0.705,0.167,0.056,0.777,1,0,0
+628,I’m surprised that they didn’t treat you to the story of that little spree.” Gatsby walked over and stood beside her.,0.5574,0.195,0.0,0.805,1,0,0
+629,"“Not that day I carried you down from the Punch Bowl to keep your shoes dry?” There was a husky tenderness in his tone … “Daisy?” “Please don’t.” Her voice was cold, but the rancour was gone from it.",0.3094,0.061,0.0,0.939,1,0,0
+630,"“There, Jay,” she said—but her hand as she tried to light a cigarette was trembling.",0.1779,0.181,0.141,0.678,1,0,0
+631,“I love you now—isn’t that enough?,0.6369,0.457,0.0,0.543,1,0,0
+632,“I did love him once—but I loved you too.” Gatsby’s eyes opened and closed.,0.8442,0.424,0.0,0.576,1,0,0
+633,“You loved me too?” he repeated.,0.5994,0.438,0.0,0.562,1,0,0
+634,“She didn’t know you were alive.,0.3818,0.342,0.0,0.658,1,0,0
+635,"“I want to speak to Daisy alone,” he insisted.",0.0772,0.14,0.0,0.86,1,0,0
+636,"“It wouldn’t be true.” “Of course it wouldn’t,” agreed Tom.",0.2732,0.189,0.0,0.811,1,0,0
+637,"I’m going to take better care of you from now on.” “You don’t understand,” said Gatsby, with a touch of panic.",0.4215,0.231,0.125,0.644,1,0,0
+638,“You’re not going to take care of her any more.” “I’m not?” Tom opened his eyes wide and laughed.,0.7351,0.267,0.0,0.733,1,0,0
+639,"“I guess your friend Walter Chase wasn’t too proud to come in on it.” “And you left him in the lurch, didn’t you?",0.743,0.231,0.0,0.769,1,0,0
+640,God!,0.3382,1.0,0.0,0.0,1,0,0
+641,"He was very glad to pick up some money, old sport.” “Don’t you call me ‘old sport’!” cried Tom.",0.2465,0.155,0.112,0.733,1,0,0
+642,"I can’t stand this any more.” Her frightened eyes told that whatever intentions, whatever courage she had had, were definitely gone.",0.4588,0.229,0.112,0.659,1,0,0
+643,"Tom talked incessantly, exulting and laughing, but his voice was as remote from Jordan and me as the foreign clamour on the sidewalk or the tumult of the elevated overhead.",0.2732,0.068,0.0,0.932,1,0,0
+644,"Thirty—the promise of a decade of loneliness, a thinning list of single men to know, a thinning briefcase of enthusiasm, thinning hair.",0.34,0.217,0.117,0.667,1,0,0
+645,"But there was Jordan beside me, who, unlike Daisy, was too wise ever to carry well-forgotten dreams from age to age.",0.7003,0.234,0.0,0.766,1,0,0
+646,"“I’ve got my wife locked in up there,” explained Wilson calmly.",0.3182,0.187,0.0,0.813,1,0,0
+647,"“She’s going to stay there till the day after tomorrow, and then we’re going to move away.” Michaelis was astonished; they had been neighbours for four years, and Wilson had never seemed faintly capable of such a statement.",0.1068,0.065,0.055,0.88,1,0,0
+648,"When anyone spoke to him he invariably laughed in an agreeable, colourless way.",0.7003,0.345,0.0,0.655,1,0,0
+649,"So naturally Michaelis tried to find out what had happened, but Wilson wouldn’t say a word—instead he began to throw curious, suspicious glances at his visitor and ask him what he’d been doing at certain times on certain days.",0.6124,0.181,0.071,0.747,1,0,0
+650,"Just as the latter was getting uneasy, some workmen came past the door bound for his restaurant, and Michaelis took the opportunity to get away, intending to come back later.",0.0516,0.084,0.078,0.838,1,0,0
+651,Mavro Michaelis wasn’t even sure of its colour—he told the first policeman that it was light green.,0.3182,0.126,0.0,0.874,1,0,0
+652,"The mouth was wide open and ripped a little at the corners, as though she had choked a little in giving up the tremendous vitality she had stored so long.",0.0828,0.136,0.095,0.769,1,0,0
+653,“That’s good.,0.4404,0.744,0.0,0.256,1,0,0
+654,"He reached up on tiptoes and peered over a circle of heads into the garage, which was lit only by a yellow light in a swinging metal basket overhead.",0.1027,0.053,0.0,0.947,1,0,0
+655,"Some man was talking to him in a low voice and attempting, from time to time, to lay a hand on his shoulder, but Wilson neither heard nor saw.",0.1406,0.073,0.054,0.873,1,0,0
+656,"“r—” said the policeman, “o—” “g—” “g—” He looked up as Tom’s broad hand fell sharply on his shoulder.",0.4939,0.151,0.0,0.849,1,0,0
+657,"“What you want, fella?” “What happened?—that’s what I want to know.” “Auto hit her.",0.2406,0.212,0.0,0.788,1,0,0
+658,"“You’ve got to pull yourself together,” he said with soothing gruffness.",0.3182,0.187,0.0,0.813,1,0,0
+659,“I’m a friend of his.” Tom turned his head but kept his hands firm on Wilson’s body.,0.2732,0.123,0.0,0.877,1,0,0
+660,"“And what colour’s your car?” “It’s a blue car, a coupé.” “We’ve come straight from New York,” I said.",0.2263,0.112,0.0,0.888,1,0,0
+661,"“Now, if you’ll let me have that name again correct—” Picking up Wilson like a doll, Tom carried him into the office, set him down in a chair, and came back.",0.3612,0.082,0.0,0.918,1,0,0
+662,"As he passed close to me he whispered: “Let’s get out.” Self-consciously, with his authoritative arms breaking the way, we pushed through the still gathering crowd, passing a hurried doctor, case in hand, who had been sent for in wild hope half an hour ago.",0.7269,0.127,0.0,0.873,1,0,0
+663,"“I’ll telephone for a taxi to take you home, and while you’re waiting you and Jordan better go in the kitchen and have them get you some supper—if you want any.” He opened the door.",0.4939,0.116,0.0,0.884,1,0,0
+664,"“Come in.” “No, thanks.",0.4404,0.492,0.0,0.508,1,0,0
+665,But I’d be glad if you’d order me the taxi.,0.4588,0.25,0.0,0.75,1,0,0
+666,I’ll wait outside.” Jordan put her hand on my arm.,0.4939,0.262,0.0,0.738,1,0,0
+667,"I must have felt pretty weird by that time, because I could think of nothing except the luminosity of his pink suit under the moon.",0.3612,0.124,0.066,0.811,1,0,0
+668,It’s better that the shock should all come at once.,0.0772,0.215,0.193,0.593,1,0,0
+669,She stood it pretty well.” He spoke as if Daisy’s reaction was the only thing that mattered.,0.4939,0.167,0.0,0.833,1,0,0
+670,"“He’s not thinking about her.” “I don’t trust him, old sport.” “How long are you going to wait?” “All night, if necessary.",0.5106,0.136,0.0,0.864,1,0,0
+671,I looked at the house; there were two or three bright windows downstairs and the pink glow from Daisy’s room on the ground floor.,0.4404,0.116,0.0,0.884,1,0,0
+672,"He was talking intently across the table at her, and in his earnestness his hand had fallen upon and covered her own.",0.1779,0.125,0.097,0.778,1,0,0
+673,Once in a while she looked up at him and nodded in agreement.,0.4939,0.225,0.0,0.775,1,0,0
+674,"They weren’t happy, and neither of them had touched the chicken or the ale—and yet they weren’t unhappy either.",0.2263,0.157,0.119,0.723,1,0,0
+675,"There was an unmistakable air of natural intimacy about the picture, and anybody would have said that they were conspiring together.",0.3612,0.111,0.0,0.889,1,0,0
+676,As I tiptoed from the porch I heard my taxi feeling its way along the dark road toward the house.,0.128,0.081,0.0,0.919,1,0,0
+677,“You’d better come home and get some sleep.” He shook his head.,0.3612,0.203,0.098,0.699,1,0,0
+678,“I want to wait here till Daisy goes to bed.,0.0772,0.126,0.0,0.874,1,0,0
+679,"Good night, old sport.” He put his hands in his coat pockets and turned back eagerly to his scrutiny of the house, as though my presence marred the sacredness of the vigil.",0.6705,0.155,0.0,0.845,1,0,0
+680,"“I waited, and about four o’clock she came to the window and stood there for a minute and then turned out the light.” His house had never seemed so enormous to me as it did that night when we hunted through the great rooms for cigarettes.",0.6249,0.085,0.0,0.915,1,0,0
+681,"We pushed aside curtains that were like pavilions, and felt over innumerable feet of dark wall for electric light switches—once I tumbled with a sort of splash upon the keys of a ghostly piano.",0.3612,0.077,0.0,0.923,1,0,0
+682,"“It’s pretty certain they’ll trace your car.” “Go away now, old sport?” “Go to Atlantic City for a week, or up to Montreal.” He wouldn’t consider it.",0.6486,0.181,0.0,0.819,1,0,0
+683,He was clutching at some last hope and I couldn’t bear to shake him free.,0.6705,0.328,0.09,0.582,1,0,0
+684,He found her excitingly desirable.,0.6369,0.634,0.0,0.366,1,0,0
+685,It amazed him—he had never been in such a beautiful house before.,0.7964,0.441,0.0,0.559,1,0,0
+686,"But what gave it an air of breathless intensity, was that Daisy lived there—it was as casual a thing to her as his tent out at camp was to him.",0.2023,0.06,0.0,0.94,1,0,0
+687,"There was a ripe mystery about it, a hint of bedrooms upstairs more beautiful and cool than other bedrooms, of gay and radiant activities taking place through its corridors, and of romances that were not musty and laid away already in lavender but fresh and breathing and redolent of this year’s shining motorcars and of dances whose flowers were scarcely withered.",0.8413,0.17,0.0,0.83,1,0,0
+688,"It excited him, too, that many men had already loved Daisy—it increased her value in his eyes.",0.8689,0.454,0.0,0.546,1,0,0
+689,"He felt their presence all about the house, pervading the air with the shades and echoes of still vibrant emotions.",0.5267,0.152,0.0,0.848,1,0,0
+690,"However glorious might be his future as Jay Gatsby, he was at present a penniless young man without a past, and at any moment the invisible cloak of his uniform might slip from his shoulders.",0.6369,0.116,0.0,0.884,1,0,0
+691,"He took what he could get, ravenously and unscrupulously—eventually he took Daisy one still October night, took her because he had no real right to touch her hand.",0.25,0.102,0.07,0.828,1,0,0
+692,"I don’t mean that he had traded on his phantom millions, but he had deliberately given Daisy a sense of security; he let her believe that he was a person from much the same strata as herself—that he was fully able to take care of her.",0.8126,0.153,0.0,0.847,1,0,0
+693,"He had intended, probably, to take what he could and go—but now he found that he had committed himself to the following of a grail.",0.2732,0.084,0.0,0.916,1,0,0
+694,"She vanished into her rich house, into her rich, full life, leaving Gatsby—nothing.",0.802,0.396,0.0,0.604,1,0,0
+695,Her porch was bright with the bought luxury of star-shine; the wicker of the settee squeaked fashionably as she turned toward him and he kissed her curious and lovely mouth.,0.891,0.309,0.0,0.691,1,0,0
+696,"She had caught a cold, and it made her voice huskier and more charming than ever, and Gatsby was overwhelmingly aware of the youth and mystery that wealth imprisons and preserves, of the freshness of many clothes, and of Daisy, gleaming like silver, safe and proud above the hot struggles of the poor.",0.8655,0.236,0.106,0.658,1,0,0
+697,"“I can’t describe to you how surprised I was to find out I loved her, old sport.",0.7003,0.309,0.0,0.691,1,0,0
+698,"I even hoped for a while that she’d throw me over, but she didn’t, because she was in love with me too.",0.8225,0.297,0.0,0.703,1,0,0
+699,"She thought I knew a lot because I knew different things from her … Well, there I was, way off my ambitions, getting deeper in love every minute, and all of a sudden I didn’t care.",0.8591,0.268,0.0,0.732,1,0,0
+700,"What was the use of doing great things if I could have a better time telling her what I was going to do?” On the last afternoon before he went abroad, he sat with Daisy in his arms for a long, silent time.",0.7906,0.159,0.0,0.841,1,0,0
+701,"Now and then she moved and he changed his arm a little, and once he kissed her dark shining hair.",0.3818,0.126,0.0,0.874,1,0,0
+702,"The afternoon had made them tranquil for a while, as if to give them a deep memory for the long parting the next day promised.",0.4019,0.15,0.0,0.85,1,0,0
+703,"They had never been closer in their month of love, nor communicated more profoundly one with another, than when she brushed silent lips against his coat’s shoulder or when he touched the end of her fingers, gently, as though she were asleep.",0.802,0.153,0.0,0.847,1,0,0
+704,"She was feeling the pressure of the world outside, and she wanted to see him and feel his presence beside her and be reassured that she was doing the right thing after all.",0.25,0.115,0.06,0.824,1,0,0
+705,"For Daisy was young and her artificial world was redolent of orchids and pleasant, cheerful snobbery and orchestras which set the rhythm of the year, summing up the sadness and suggestiveness of life in new tunes.",0.2263,0.152,0.132,0.716,1,0,0
+706,"At the grey tea hour there were always rooms that throbbed incessantly with this low, sweet fever, while fresh faces drifted here and there like rose petals blown by the sad horns around the floor.",0.3664,0.207,0.126,0.667,1,0,0
+707,"She wanted her life shaped now, immediately—and the decision must be made by some force—of love, of money, of unquestionable practicality—that was close at hand.",0.8126,0.243,0.0,0.757,1,0,0
+708,"There was a wholesome bulkiness about his person and his position, and Daisy was flattered.",0.3818,0.167,0.0,0.833,1,0,0
+709,Doubtless there was a certain struggle and a certain relief.,0.7096,0.634,0.159,0.207,1,0,0
+710,The letter reached Gatsby while he was still at Oxford.,0.1027,0.135,0.0,0.865,1,0,0
+711,"There was a slow, pleasant movement in the air, scarcely a wind, promising a cool, lovely day.",0.89,0.536,0.0,0.464,1,0,0
+712,“I don’t think she ever loved him.” Gatsby turned around from a window and looked at me challengingly.,0.5106,0.19,0.078,0.732,1,0,0
+713,"“You must remember, old sport, she was very excited this afternoon.",0.4005,0.212,0.0,0.788,1,0,0
+714,"“Of course she might have loved him just for a minute, when they were first married—and loved me more even then, do you see?” Suddenly he came out with a curious remark.",0.8779,0.272,0.0,0.728,1,0,0
+715,"He came back from France when Tom and Daisy were still on their wedding trip, and made a miserable but irresistible journey to Louisville on the last of his army pay.",0.1027,0.092,0.109,0.799,1,0,0
+716,"Just as Daisy’s house had always seemed to him more mysterious and gay than other houses, so his idea of the city itself, even though she was gone from it, was pervaded with a melancholy beauty.",0.2263,0.096,0.073,0.831,1,0,0
+717,"He left feeling that if he had searched harder, he might have found her—that he was leaving her behind.",0.128,0.077,0.0,0.923,1,0,0
+718,"Then out into the spring fields, where a yellow trolley raced them for a minute with people in it who might once have seen the pale magic of her face along the casual street.",0.2023,0.055,0.0,0.945,1,0,0
+719,"He stretched out his hand desperately as if to snatch only a wisp of air, to save a fragment of the spot that she had made lovely for him.",0.8225,0.285,0.073,0.642,1,0,0
+720,"But it was all going by too fast now for his blurred eyes and he knew that he had lost that part of it, the freshest and the best, forever.",0.4404,0.122,0.067,0.812,1,0,0
+721,“Twelve minutes to my train.” I didn’t want to go to the city.,0.0772,0.106,0.0,0.894,1,0,0
+722,"I wasn’t worth a decent stroke of work, but it was more than that—I didn’t want to leave Gatsby.",0.1531,0.159,0.071,0.769,1,0,0
+723,"“I suppose Daisy’ll call too.” He looked at me anxiously, as if he hoped I’d corroborate this.",0.1779,0.133,0.097,0.769,1,0,0
+724,Just before I reached the hedge I remembered something and turned around.,0.1027,0.135,0.0,0.865,1,0,0
+725,“You’re worth the whole damn bunch put together.” I’ve always been glad I said that.,0.296,0.263,0.145,0.591,1,0,0
+726,"It was the only compliment I ever gave him, because I disapproved of him from beginning to end.",0.4767,0.171,0.0,0.829,1,0,0
+727,"First he nodded politely, and then his face broke into that radiant and understanding smile, as if we’d been in ecstatic cahoots on that fact all the time.",0.7269,0.249,0.078,0.672,1,0,0
+728,"His gorgeous pink rag of a suit made a bright spot of colour against the white steps, and I thought of the night when I first came to his ancestral home, three months before.",0.7845,0.198,0.0,0.802,1,0,0
+729,"The lawn and drive had been crowded with the faces of those who guessed at his corruption—and he had stood on those steps, concealing his incorruptible dream, as he waved them goodbye.",0.25,0.061,0.0,0.939,1,0,0
+730,I thanked him for his hospitality.,0.4404,0.42,0.0,0.58,1,0,0
+731,"“I enjoyed breakfast, Gatsby.”  Up in the city, I tried for a while to list the quotations on an interminable amount of stock, then I fell asleep in my swivel-chair.",0.5106,0.113,0.0,0.887,1,0,0
+732,“You weren’t so nice to me last night.” “How could it have mattered then?” Silence for a moment.,0.5598,0.184,0.0,0.816,1,0,0
+733,"Then: “However—I want to see you.” “I want to see you, too.” “Suppose I don’t go to Southampton, and come into town this afternoon?” “No—I don’t think this afternoon.” “Very well.” “It’s impossible this afternoon.",0.1531,0.075,0.0,0.925,1,0,0
+734,"Various—” We talked like that for a while, and then abruptly we weren’t talking any longer.",0.3612,0.152,0.0,0.848,1,0,0
+735,"I don’t know which of us hung up with a sharp click, but I know I didn’t care.",0.6486,0.249,0.0,0.751,1,0,0
+736,Now I want to go back a little and tell what happened at the garage after we left there the night before.,0.0772,0.064,0.0,0.936,1,0,0
+737,"When they convinced her of this, she immediately fainted, as if that was the intolerable part of the affair.",0.4019,0.13,0.0,0.87,1,0,0
+738,"Someone, kind or curious, took her in his car and drove her in the wake of her sister’s body.",0.6908,0.251,0.0,0.749,1,0,0
+739,"Maybe I could call up the church and get a priest to come over and he could talk to you, see?” “Don’t belong to any.” “You ought to have a church, George, for times like this.",0.3612,0.072,0.0,0.928,1,0,0
+740,“Which drawer?” “That drawer—that one.” Michaelis opened the drawer nearest his hand.,0.4939,0.225,0.0,0.775,1,0,0
+741,"But conceivably Wilson had heard some of these same explanations before, from Myrtle, because he began saying “Oh, my God!” again in a whisper—his comforter left several explanations in the air.",0.4926,0.099,0.0,0.901,1,0,0
+742,"“Who did?” “I have a way of finding out.” “You’re morbid, George,” said his friend.",0.4939,0.198,0.0,0.802,1,0,0
+743,"His eyes narrowed and his mouth widened slightly with the ghost of a superior “Hm!” “I know,” he said definitely.",0.6658,0.265,0.083,0.652,1,0,0
+744,"She ran out to speak to him and he wouldn’t stop.” Michaelis had seen this too, but it hadn’t occurred to him that there was any special significance in it.",0.7351,0.181,0.0,0.819,1,0,0
+745,"“How could she of been like that?” “She’s a deep one,” said Wilson, as if that answered the question.",0.3612,0.128,0.0,0.872,1,0,0
+746,"“Ah-h-h—” He began to rock again, and Michaelis stood twisting the leash in his hand.",0.4939,0.186,0.0,0.814,1,0,0
+747,"“Maybe you got some friend that I could telephone for, George?” This was a forlorn hope—he was almost sure that Wilson had no friend: there was not enough of him for his wife.",0.7357,0.224,0.058,0.718,1,0,0
+748,"He was glad a little later when he noticed a change in the room, a blue quickening by the window, and realized that dawn wasn’t far off.",0.4588,0.115,0.0,0.885,1,0,0
+749,"Wilson’s glazed eyes turned out to the ash-heaps, where small grey clouds took on fantastic shapes and scurried here and there in the faint dawn wind.",0.5859,0.167,0.0,0.833,1,0,0
+750,"“That’s an advertisement,” Michaelis assured him.",0.3612,0.333,0.0,0.667,1,0,0
+751,"By six o’clock Michaelis was worn out, and grateful for the sound of a car stopping outside.",0.0516,0.152,0.192,0.657,1,0,0
+752,"It was one of the watchers of the night before who had promised to come back, so he cooked breakfast for three, which he and the other man ate together.",0.3612,0.079,0.0,0.921,1,0,0
+753,"The police, on the strength of what he said to Michaelis, that he “had a way of finding out,” supposed that he spent that time going from garage to garage thereabout, inquiring for a yellow car.",0.4939,0.088,0.0,0.912,1,0,0
+754,"On the other hand, no garage man who had seen him ever came forward, and perhaps he had an easier, surer way of finding out what he wanted to know.",0.7184,0.225,0.06,0.714,1,0,0
+755,"He stopped at the garage for a pneumatic mattress that had amused his guests during the summer, and the chauffeur helped him to pump it up.",0.2263,0.101,0.069,0.83,1,0,0
+756,"I have an idea that Gatsby himself didn’t believe it would come, and perhaps he no longer cared.",0.1531,0.14,0.11,0.75,1,0,0
+757,"If that was true he must have felt that he had lost the old warm world, paid a high price for living too long with a single dream.",0.5267,0.216,0.074,0.71,1,0,0
+758,"A new world, material without being real, where poor ghosts, breathing dreams like air, drifted fortuitously about … like that ashen, fantastic figure gliding toward him through the amorphous trees.",0.7906,0.301,0.114,0.585,1,0,0
+759,"There was a faint, barely perceptible movement of the water as the fresh flow from one end urged its way toward the drain at the other.",0.3182,0.087,0.0,0.913,1,0,0
+760,"The touch of a cluster of leaves revolved it slowly, tracing, like the leg of transit, a thin red circle in the water.",0.3612,0.111,0.0,0.889,1,0,0
+761,"A rope stretched across the main gate and a policeman by it kept out the curious, but little boys soon discovered that they could enter through my yard, and there were always a few of them clustered open-mouthed about the pool.",0.1655,0.043,0.0,0.957,1,0,0
+762,"Someone with a positive manner, perhaps a detective, used the expression “madman” as he bent over Wilson’s body that afternoon, and the adventitious authority of his voice set the key for the newspaper reports next morning.",0.5994,0.133,0.0,0.867,1,0,0
+763,"Most of those reports were a nightmare—grotesque, circumstantial, eager, and untrue.",0.3612,0.217,0.0,0.783,1,0,0
+764,"She showed a surprising amount of character about it too—looked at the coroner with determined eyes under that corrected brow of hers, and swore that her sister had never seen Gatsby, that her sister was completely happy with her husband, that her sister had been into no mischief whatever.",0.5849,0.151,0.084,0.765,1,0,0
+765,"At first I was surprised and confused; then, as he lay in his house and didn’t move or breathe or speak, hour upon hour, it grew upon me that I was responsible, because no one else was interested—interested, I mean, with that intense personal interest to which everyone has some vague right at the end.",0.3818,0.143,0.099,0.758,1,0,0
+766,"I called up Daisy half an hour after we found him, called her instinctively and without hesitation.",0.2057,0.108,0.0,0.892,1,0,0
+767,"I wanted to go into the room where he lay and reassure him: “I’ll get somebody for you, Gatsby.",0.34,0.124,0.0,0.876,1,0,0
+768,Just trust me and I’ll get somebody for you—” Meyer Wolfshiem’s name wasn’t in the phone book.,0.5106,0.171,0.0,0.829,1,0,0
+769,"I was sure he’d start when he saw the newspapers, just as I was sure there’d be a wire from Daisy before noon—but neither a wire nor Mr. Wolfshiem arrived; no one arrived except more police and photographers and newspaper men.",0.34,0.113,0.054,0.833,1,0,0
+770,Dear Mr. Carraway.,0.3818,0.565,0.0,0.435,1,0,0
+771,I cannot come down  now as I am tied up in some very important business and cannot get  mixed up in this thing now.,0.2716,0.091,0.0,0.909,1,0,0
+772,I hardly know where I am when  I hear about a thing like this and am completely knocked down and  out.,0.3612,0.135,0.0,0.865,1,0,0
+773,Yours truly                              Meyer Wolfshiem and then hasty addenda beneath:  Let me know about the funeral etc do not know his family at all.,0.1027,0.11,0.095,0.795,1,0,0
+774,They got a circular from New York giving ’em the numbers just five minutes before.,0.34,0.156,0.0,0.844,1,0,0
+775,"But he wouldn’t eat, and the glass of milk spilled from his trembling hand.",0.1779,0.181,0.141,0.678,1,0,0
+776,“He must have been mad.” “Wouldn’t you like some coffee?” I urged him.,0.3612,0.185,0.0,0.815,1,0,0
+777,“I don’t want anything.,0.0772,0.302,0.0,0.698,1,0,0
+778,"He had reached an age where death no longer has the quality of ghastly surprise, and when he looked around him now for the first time and saw the height and splendour of the hall and the great rooms opening out from it into other rooms, his grief began to be mixed with an awed pride.",0.4404,0.187,0.132,0.681,1,0,0
+779,"“I didn’t know what you’d want, Mr. Gatsby—” “Gatz is my name.” “—Mr.",0.0772,0.098,0.0,0.902,1,0,0
+780,“Jimmy always liked it better down East.,0.6908,0.533,0.0,0.467,1,0,0
+781,"Were you a friend of my boy’s, Mr.—?” “We were close friends.” “He had a big future before him, you know.",0.4939,0.151,0.0,0.849,1,0,0
+782,"He was only a young man, but he had a lot of brain power here.” He touched his head impressively, and I nodded.",0.6124,0.174,0.0,0.826,1,0,0
+783,"“If he’d of lived, he’d of been a great man.",0.6249,0.339,0.0,0.661,1,0,0
+784,A man like James J. Hill.,0.3612,0.385,0.0,0.615,1,0,0
+785,“Oh!” He sounded relieved.,0.4389,0.491,0.0,0.509,1,0,0
+786,"“This is Klipspringer.” I was relieved too, for that seemed to promise another friend at Gatsby’s grave.",0.6705,0.357,0.115,0.529,1,0,0
+787,"I didn’t want it to be in the papers and draw a sightseeing crowd, so I’d been calling up a few people myself.",0.0772,0.064,0.0,0.936,1,0,0
+788,"“Of course you’ll be there yourself.” “Well, I’ll certainly try.",0.34,0.211,0.0,0.789,1,0,0
+789,"“How about saying you’ll come?” “Well, the fact is—the truth of the matter is that I’m staying with some people up here in Greenwich, and they rather expect me to be with them tomorrow.",0.34,0.096,0.0,0.904,1,0,0
+790,"Of course I’ll do my best to get away.” I ejaculated an unrestrained “Huh!” and he must have heard me, for he went on nervously: “What I called up about was a pair of shoes I left there.",0.5983,0.118,0.042,0.84,1,0,0
+791,"My address is care of B. F.—” I didn’t hear the rest of the name, because I hung up the receiver.",0.4939,0.151,0.0,0.849,1,0,0
+792,"In a moment Meyer Wolfshiem stood solemnly in the doorway, holding out both hands.",0.2023,0.13,0.0,0.87,1,0,0
+793,He ate more than four dollars’ worth of food in half an hour.” “Did you start him in business?” I inquired.,0.2263,0.091,0.0,0.909,1,0,0
+794,"I saw right away he was a fine-appearing, gentlemanly young man, and when he told me he was at Oggsford I knew I could use him good.",0.4404,0.116,0.0,0.884,1,0,0
+795,I got him to join the American Legion and he used to stand high there.,0.296,0.145,0.0,0.855,1,0,0
+796,We were so thick like that in everything”—he held up two bulbous fingers—“always together.” I wondered if this partnership had included the World’s Series transaction in 1919.,0.4173,0.1,0.0,0.9,1,0,0
+797,"“You were his closest friend, so I know you’ll want to come to his funeral this afternoon.” “I’d like to come.” “Well, come then.” The hair in his nostrils quivered slightly, and as he shook his head his eyes filled with tears.",0.3535,0.151,0.121,0.728,1,0,0
+798,"For a moment I thought he was going to suggest a “gonnegtion,” but he only nodded and shook my hand.",0.5719,0.206,0.077,0.718,1,0,0
+799,"“Let us learn to show our friendship for a man when he is alive and not after he is dead,” he suggested.",0.6705,0.224,0.0,0.776,1,0,0
+800,After changing my clothes I went next door and found Mr. Gatz walking up and down excitedly in the hall.,0.5106,0.155,0.0,0.845,1,0,0
+801,His pride in his son and in his son’s possessions was continually increasing and now he had something to show me.,0.34,0.107,0.0,0.893,1,0,0
+802,He pointed out every detail to me eagerly.,0.3818,0.271,0.0,0.729,1,0,0
+803,“Look there!” and then sought admiration from my eyes.,0.5848,0.322,0.0,0.678,1,0,0
+804,I think it’s a very pretty picture.,0.5413,0.466,0.0,0.534,1,0,0
+805,It shows up well.” “Very well.,0.2732,0.296,0.0,0.704,1,0,0
+806,"And ever since he made a success he was very generous with me.” He seemed reluctant to put away the picture, held it for another minute, lingeringly, before my eyes.",0.7425,0.207,0.057,0.737,1,0,0
+807,"* Bath every other day   * Read one improving book or magazine per week   * Save $5.00 [crossed out] $3.00 per week   * Be better to parents “I came across this book by accident,” said the old man.",0.836,0.223,0.0,0.777,1,0,0
+808,He always had some resolves like this or something.,0.4939,0.375,0.0,0.625,1,0,0
+809,Do you notice what he’s got about improving his mind?,0.4215,0.237,0.0,0.763,1,0,0
+810,He was always great for that.,0.6249,0.451,0.0,0.549,1,0,0
+811,"He told me I et like a hog once, and I beat him for it.” He was reluctant to close the book, reading each item aloud and then looking eagerly at me.",0.4767,0.154,0.06,0.785,1,0,0
+812,"I tried to think about Gatsby then for a moment, but he was already too far away, and I could only remember, without resentment, that Daisy hadn’t sent a message or a flower.",0.4782,0.103,0.0,0.897,1,0,0
+813,"“Why, my God!",0.3382,0.545,0.0,0.455,1,0,0
+814,"Those who went farther than Chicago would gather in the old dim Union Station at six o’clock of a December evening, with a few Chicago friends, already caught up into their own holiday gaieties, to bid them a hasty goodbye.",0.7003,0.142,0.0,0.858,1,0,0
+815,"And last the murky yellow cars of the Chicago, Milwaukee and St. Paul railroad looking cheerful as Christmas itself on the tracks beside the gate.",0.5423,0.127,0.0,0.873,1,0,0
+816,"That’s my Middle West—not the wheat or the prairies or the lost Swede towns, but the thrilling returning trains of my youth, and the street lamps and sleigh bells in the frosty dark and the shadows of holly wreaths thrown by lighted windows on the snow.",0.5423,0.083,0.033,0.884,1,0,0
+817,"I am part of that, a little solemn with the feel of those long winters, a little complacent from growing up in the Carraway house in a city where dwellings are still called through decades by a family’s name.",0.1084,0.042,0.058,0.9,1,0,0
+818,"Even when the East excited me most, even when I was most keenly aware of its superiority to the bored, sprawling, swollen towns beyond the Ohio, with their interminable inquisitions which spared only the children and the very old—even then it had always for me a quality of distortion.",0.6115,0.136,0.04,0.824,1,0,0
+819,"West Egg, especially, still figures in my more fantastic dreams.",0.7828,0.462,0.0,0.538,1,0,0
+820,"Her hand, which dangles over the side, sparkles cold with jewels.",0.8176,0.515,0.0,0.485,1,0,0
+821,"I saw Jordan Baker and talked over and around what had happened to us together, and what had happened afterward to me, and she lay perfectly still, listening, in a big chair.",0.6369,0.127,0.0,0.873,1,0,0
+822,"She was dressed to play golf, and I remember thinking she looked like a good illustration, her chin raised a little jauntily, her hair the colour of an autumn leaf, her face the same brown tint as the fingerless glove on her knee.",0.7783,0.174,0.0,0.826,1,0,0
+823,When I had finished she told me without comment that she was engaged to another man.,0.4019,0.162,0.0,0.838,1,0,0
+824,"I doubted that, though there were several she could have married at a nod of her head, but I pretended to be surprised.",0.2023,0.107,0.071,0.822,1,0,0
+825,"I thought you were rather an honest, straightforward person.",0.5106,0.32,0.0,0.68,1,0,0
+826,"Angry, and half in love with her, and tremendously sorry, I turned away.",0.079,0.232,0.27,0.497,1,0,0
+827,"Suddenly he saw me and walked back, holding out his hand.",0.4939,0.242,0.0,0.758,1,0,0
+828,"“He came to the door while we were getting ready to leave, and when I sent down word that we weren’t in he tried to force his way upstairs.",0.3182,0.084,0.04,0.875,1,0,0
+829,His hand was on a revolver in his pocket every minute he was in the house—” He broke off defiantly.,0.1027,0.139,0.122,0.739,1,0,0
+830,"He ran over Myrtle like you’d run over a dog and never even stopped his car.” There was nothing I could say, except the one unutterable fact that it wasn’t true.",0.7154,0.211,0.0,0.789,1,0,0
+831,"By God it was awful—” I couldn’t forgive him or like him, but I saw that what he had done was, to him, entirely justified.",0.7808,0.318,0.0,0.682,1,0,0
+832,"I spent my Saturday nights in New York because those gleaming, dazzling parties of his were with me so vividly that I could still hear the music and the laughter, faint and incessant, from his garden, and the cars going up and down his drive.",0.7096,0.126,0.0,0.874,1,0,0
+833,Probably it was some final guest who had been away at the ends of the earth and didn’t know that the party was over.,0.4019,0.105,0.0,0.895,1,0,0
+834,"And as the moon rose higher the inessential houses began to melt away until gradually I became aware of the old island here that flowered once for Dutch sailors’ eyes—a fresh, green breast of the new world.",0.3182,0.062,0.0,0.938,1,0,0
+835,"Its vanished trees, the trees that had made way for Gatsby’s house, had once pandered in whispers to the last and greatest of all human dreams; for a transitory enchanted moment man must have held his breath in the presence of this continent, compelled into an aesthetic contemplation he neither understood nor desired, face to face for the last time in history with something commensurate to his capacity for wonder.",0.8834,0.161,0.0,0.839,1,0,0
